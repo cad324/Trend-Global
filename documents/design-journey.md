@@ -1,6 +1,6 @@
 # Project 4 - Design & Plan
 
-Your Team Name: [your team name]
+Your Team Name: Silver Mammoth
 
 ## Milestone 1: Design your Client's Site
 
@@ -11,6 +11,8 @@ Your Team Name: [your team name]
 [Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?]
 
 [NOTE: If you are redesigning an existing website, give us the current URL and some screenshots of the current site. Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.]
+
+Our client is Themis Hsieh, a assistant manager at Trend International, which is a jewelry wholesale company with an office in Long Island City. They want a website that can serve as a basic catalogue for their products by displaying images of current pieces. Their key goals include displaying all relevant information to their customers as well as look "beautiful so people want to buy their products!". They currently do not have a website for their USA office.
 
 
 ### Client Needs & Wants/Requirements (Milestone 1)
