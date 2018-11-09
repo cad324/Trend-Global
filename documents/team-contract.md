@@ -36,7 +36,8 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 
 6. What roles will we create? Include a description of exactly what each role is responsible for.
-  
+  - Designer - the designer will include all of us, and we are all responsible for producing a site that looks good and is clean. Designing will also include sketching out the initial site design before it is executed in code.
+  - Coder - We will all be involved in the coding process for this website, and are all responsible for ensuring the usability of the website.
 
 
 
