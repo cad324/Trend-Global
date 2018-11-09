@@ -36,7 +36,7 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 
 6. What roles will we create? Include a description of exactly what each role is responsible for.
-  
+
 
 
 
@@ -50,9 +50,12 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 9. What are our procedures for re-visiting this contract?
 
+ - If we have all agree that the contract has to be amended to move forward with the project.
 
 
 10. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
+
+ -
 
 
 
