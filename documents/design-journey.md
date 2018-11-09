@@ -40,11 +40,11 @@ Example:
 
 ### Target Audience (Milestone 1)
 
-#### Target Audience(s) (Sam)
+#### Target Audience(s) (Kelly)
 
 [Tell us about the specific audience(s) for this website.]
 
-#### Target Audience Needs (Sam)
+#### Target Audience Needs (Kelly)
 
 [What are the needs of your target audience(s)? Note that these are probably *not* the needs of your client.]
 
