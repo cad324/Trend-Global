@@ -6,7 +6,7 @@ Your Team Name: Silver Mammoth
 
 ### Client Selection (Milestone 1)
 
-#### Client Description
+#### Client Description (Sam)
 
 [Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?]
 
@@ -17,11 +17,11 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 ### Client Needs & Wants/Requirements (Milestone 1)
 
-#### Purpose & Content
+#### Purpose & Content (Kelly)
 
 [Tell us the purpose of the website and what it is all about.]
 
-#### Client Needs and Wants
+#### Client Needs and Wants (Clive)
 
 [Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.]
 
@@ -34,29 +34,29 @@ Example:
   - **Memo** [Justify your decisions; additional notes.]
     - Create multiple pages in multiple languages manually.
 
-#### Client Meeting Notes
+#### Client Meeting Notes (Sam)
 
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
 ### Target Audience (Milestone 1)
 
-#### Target Audience(s)
+#### Target Audience(s) (Sam)
 
 [Tell us about the specific audience(s) for this website.]
 
-#### Target Audience Needs
+#### Target Audience Needs (Sam)
 
 [What are the needs of your target audience(s)? Note that these are probably *not* the needs of your client.]
 
 ### Initial Design (Milestone 1)
 
-#### Content
+#### Content (Sam) - images of jewelry
 
 [Place your content in the **content** folder. NOT in the documents folder.]
 
 [Note any content (e.g., text, image) that you need to make/get from the client here.]
 
-#### Content Organization, Information Architecture, and Navigation
+#### Content Organization, Information Architecture, and Navigation (david)
 
 [Lay out the plan for how you'll organize the site and which content will go where. Plan out the navigation for the site. Document your process for organizing the content.]
 
@@ -81,13 +81,13 @@ Example:
   - [photo of card sort]
   - [explanation of how your come up with your content organization and navigation.]
 
-#### Sketches
+#### Sketches (sam & kelly)
 
 [Include exploratory idea sketches of your website.]
 
 [Include sketches of your finalized design.]
 
-#### Interactivity
+#### Interactivity (clive & david)
 
 [What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.]
 
