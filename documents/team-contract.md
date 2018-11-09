@@ -36,7 +36,12 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 
 6. What roles will we create? Include a description of exactly what each role is responsible for.
+<<<<<<< HEAD
 
+=======
+  - Designer - the designer will include all of us, and we are all responsible for producing a site that looks good and is clean. Designing will also include sketching out the initial site design before it is executed in code.
+  - Coder - We will all be involved in the coding process for this website, and are all responsible for ensuring the usability of the website.
+>>>>>>> d2b83fd14c03f7bd016888e3ed1f1cca596f35a6
 
 
 
@@ -53,9 +58,12 @@ We will hold a vote among group members to decide what to do in case of conflict
 
 9. What are our procedures for re-visiting this contract?
 
+ - If we have all agree that the contract has to be amended to move forward with the project.
 
 
 10. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
+
+ -
 
 
 
