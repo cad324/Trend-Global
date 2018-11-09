@@ -9,26 +9,34 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 **Your group contract/working agreement should probably include these elements. Feel free to add other terms, too.**
 
 1. Team name or project name. Plus full name and NetID of each of your team members.
-
+  Team Name: Silver Mammoth
+  Team Members:
+    - Samantha Chu (sc2855)
+    - Clive Duncan (cad324)
+    - David Mwanjabala(dm592)
+    - Kelly Chan (kvc24)
 
 
 2. To what goals do we all commit?
-
-
+  - Always pull our own weight in the assignment.
+  - We aim to do our best in creating the best client content website possible.
 
 3. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
-
+  - Always make an effort to attend team meetings.
+  - Be open in communication, and voice your opinions when appropriate.
+  - Respond to group messages within a reasonable time frame.
 
 
 4. By what means and how frequently will we meet or communicate?
-
-
+  - We will communicate through facebook messenger via groupchat everyday to plan out goals for each portion of the project.
+  - We will meet every week after our scheduled lab time.
 
 5. How will we communicate and work with our client?
-
+  - We will video chat with our client and email her on a weekly or daily basis. All members have access to the client's email address and agree to CC each other on any communication to the client.
 
 
 6. What roles will we create? Include a description of exactly what each role is responsible for.
+  
 
 
 
