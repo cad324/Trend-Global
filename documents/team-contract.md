@@ -36,12 +36,13 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 
 6. What roles will we create? Include a description of exactly what each role is responsible for.
-  
+
 
 
 
 
 7. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
+  We will all look out for each other. We will remind a slacking member of the project requirements and ask them to do the work as soon as possible. If nothing changes, we will consult the course staff.  
 
 
 
