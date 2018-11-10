@@ -14,10 +14,10 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
   Team Members:
 
-    - Samantha Chu (sc2855)
-    - Clive Duncan (cad324)
-    - David Mwanjabala(dm592)
-    - Kelly Chan (kvc24)
+  - Samantha Chu (sc2855)
+  - Clive Duncan (cad324)
+  - David Mwanjabala(dm592)
+  - Kelly Chan (kvc24)
 
 
 2. To what goals do we all commit?
