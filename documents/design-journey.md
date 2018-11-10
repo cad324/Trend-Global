@@ -6,7 +6,7 @@ Your Team Name: Silver Mammoth
 
 ### Client Selection (Milestone 1)
 
-#### Client Description (Sam)
+#### Client Description (Samantha)
 
 [Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?]
 
@@ -34,15 +34,15 @@ Example:
   - **Memo** [Justify your decisions; additional notes.]
     - Create multiple pages in multiple languages manually.
 
-#### Client Meeting Notes (Sam)
+#### Client Meeting Notes (Samantha)
 
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
 ### Target Audience (Milestone 1)
 
-#### Target Audience(s) (Sam)
+#### Target Audience(s) (Samantha)
 
-  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies.
+  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. The target
 
 #### Target Audience Needs (Kelly)
 
@@ -50,11 +50,13 @@ Example:
 
 ### Initial Design (Milestone 1)
 
-#### Content (Sam) - images of jewelry
+#### Content (Samantha)
 
 [Place your content in the **content** folder. NOT in the documents folder.]
 
 [Note any content (e.g., text, image) that you need to make/get from the client here.]
+
+Applicable content for our website includes the pictures of the jewelry (necklaces, bracelets, rings, earrings) that will be put on display. 
 
 #### Content Organization, Information Architecture, and Navigation (David)
 
