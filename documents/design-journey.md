@@ -87,17 +87,22 @@ Applicable content for our website includes the pictures of the jewelry (necklac
 Example:
 - **Navigation**
   - Home
-  - Portfolio
-    - Websites
-    - Mobile Apps
-    - Tablets
-  - About Me
+  - Jewelry
+    - Trending
+    - Men's
+    - Women's
+    - Unisex
+  - About
+  - Contact
 
 - **Content** (List all the content corresponding to main navigation and sub-categories.)
-  - *Portfolio*: list all the projects (as images) this client has worked on. When the image is hovered over, display a description of the project; add a search function to enable users search for specific projects;
-  - *Websites*: showcase all the websites designed by the client, with thumbnail images and a brief description for each design;
-  - *Mobile Apps*: showcase all the mobile apps designed by the client, with thumbnail images and a brief description for each design;
-  - *Tablets*: showcase all the tablet applications designed by the client, with thumbnail images and a brief description for each design;
+  - *Home*: Summaries of the categories listed in Jewelry and a small preview;
+  - *Trending*: show the currently trending items from the entire collection;
+  - *Men's*: Showcase men's jewelry in the collection;
+  - *Women's*: Showcase women's jewelry in the collection;
+  - *Unisex*: List unisex jewelry in the collection
+  - *About*: Show the company mission and team.
+  - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address 
 
 - **Process**
   - [photo of card sort]
