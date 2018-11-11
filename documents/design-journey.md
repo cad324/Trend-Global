@@ -102,10 +102,10 @@ Example:
   - *Women's*: Showcase women's jewelry in the collection;
   - *Unisex*: List unisex jewelry in the collection
   - *About*: Show the company mission and team.
-  - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address 
+  - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address
 
 - **Process**
-  - [photo of card sort]
+  - ![](card_sort.png)
   - [explanation of how your come up with your content organization and navigation.]
 
 #### Sketches (sam & kelly)
