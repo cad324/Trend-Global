@@ -25,14 +25,32 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 [Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.]
 
-Example:
 - Needs/Wants #1
   - **Needs and Wants** [What does your client and audience need and want?]
-    - Client wants to cater to people who speak different languages.
+    - Client needs to have organized visual displays of the merchandise (jewelry).
   - **Design Ideas and Choices** [How will you meet those needs and wants?]
-    - Create web-pages manually in multiple languages.
+    - Dedicate a page for navigating through the merchandise offered by the client.
   - **Memo** [Justify your decisions; additional notes.]
-    - Create multiple pages in multiple languages manually.
+    - This makes it easy for the target audience (retailers) to find what they want.
+
+
+- Needs/Wants #2
+  - **Needs and Wants** [What does your client and audience need and want?]
+    - Trend International needs their clients to be able  to communicate easily with them.
+  - **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - Create a 'Contact Us' page with a contact form and/or providing all the necessary contact information for our client.
+  - **Memo** [Justify your decisions; additional notes.]
+    - This makes it easy for the target audience (retailers) to have their lingering questions answered. It also helps our client engage with their potential customers.
+
+
+- Needs/Wants #3
+  - **Needs and Wants** [What does your client and audience need and want?]
+    - From the client: "For the website, we are thinking to build classy, elegant web site that is geared more towards advertising the company than actually selling jewelry on internet."
+    So, the website has to be visually appealing and interactive enough to attract new customers.
+  - **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - We will use high quality photos for an elegant feel, and use JavaScript for smooth interactivity.
+  - **Memo** [Justify your decisions; additional notes.]
+    - These designs must be implemented for Trend International to be competitive since other jewelry wholesale companies use the same methods.
 
 #### Client Meeting Notes (Samantha)
 
@@ -56,7 +74,7 @@ Example:
 
 [Note any content (e.g., text, image) that you need to make/get from the client here.]
 
-Applicable content for our website includes the pictures of the jewelry (necklaces, bracelets, rings, earrings) that will be put on display. 
+Applicable content for our website includes the pictures of the jewelry (necklaces, bracelets, rings, earrings) that will be put on display.
 
 #### Content Organization, Information Architecture, and Navigation (David)
 
