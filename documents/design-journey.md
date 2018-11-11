@@ -113,7 +113,12 @@ Example:
 
   - For mobile view, there will be menu that toggles between showing and hiding the menu items.
 
+    - Reason: Users of the website may be accessing it from mobile devices as well as desktops/laptops, so our navigation must be responsive.
+
+
   - There will also be custom form validation for the contact page form.
+
+    - Reason: It would make it easier for our clients to check that the user is entering valid information.
 
 
 
