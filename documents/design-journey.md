@@ -57,12 +57,13 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
 ![](email1.png)
+![](meetingnotes.png)
 
 ### Target Audience (Milestone 1)
 
 #### Target Audience(s) (Samantha)
 
-  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. The target
+  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies.
 
 #### Target Audience Needs (Kelly)
 
