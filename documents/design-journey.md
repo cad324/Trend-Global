@@ -88,8 +88,8 @@ Applicable content for our website includes the pictures of the jewelry (necklac
 Example:
 - **Navigation**
   - Home
+  - Trending
   - Jewelry
-    - Trending
     - Necklaces
     - Bracelets
     - Rings
