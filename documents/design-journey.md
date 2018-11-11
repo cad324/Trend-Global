@@ -56,6 +56,8 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
+![](email1.png)
+
 ### Target Audience (Milestone 1)
 
 #### Target Audience(s) (Samantha)
