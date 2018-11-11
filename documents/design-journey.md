@@ -38,7 +38,7 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
   - **Needs and Wants** [What does your client and audience need and want?]
     - Trend International needs their clients to be able  to communicate easily with them.
   - **Design Ideas and Choices** [How will you meet those needs and wants?]
-    - Create a 'Contact Us' page with a contact form and/or providing all the necessary contact information for our client.
+    - Create a 'Contact Us' page with a contact form and/or provide all the necessary contact information for our client.
   - **Memo** [Justify your decisions; additional notes.]
     - This makes it easy for the target audience (retailers) to have their lingering questions answered. It also helps our client engage with their potential customers.
 
