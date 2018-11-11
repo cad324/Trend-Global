@@ -63,7 +63,7 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 #### Target Audience(s) (Samantha)
 
-  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. In addition, our client mentioned that their company sells to wholesalers, retailers, designers, and also chain store representatives. 
+  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. In addition, our client mentioned that their company sells to wholesalers, retailers, designers, and also chain store representatives.
 
 #### Target Audience Needs (Kelly)
 
@@ -112,11 +112,17 @@ Example:
   - ![](card_sort.png)
   - [explanation of how your come up with your content organization and navigation.]
 
-#### Sketches (sam & kelly)
+#### Sketches (sam)
 
 [Include exploratory idea sketches of your website.]
 
 [Include sketches of your finalized design.]
+
+- ![](homesketch.png)
+- ![](trendingsketch.png)
+- ![](jewelrysketch.png)
+- ![](aboutsketch.png)
+- ![](contactsketch.png)
 
 #### Interactivity (clive & david)
 
