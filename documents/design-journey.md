@@ -95,39 +95,26 @@ Example:
   - Home
   - Trending
   - Jewelry
-<<<<<<< HEAD
-    - Trending
-    - Rings
-    - Bracelets
-    - necklaces
-=======
     - Necklaces
     - Bracelets
     - Rings
     - Earrings
->>>>>>> 5be8c40631ad9a8a9aea839571fbbb8960d26bec
   - About
   - Contact
 
 - **Content** (List all the content corresponding to main navigation and sub-categories.)
   - *Home*: Summaries of the categories listed in Jewelry and a small preview;
   - *Trending*: show the currently trending items from the entire collection;
-<<<<<<< HEAD
-  - *Rings*: Showcase men's jewelry in the collection;
-  - *Bracelets*: Showcase women's jewelry in the collection;
-  - *Necklaces*: List unisex jewelry in the collection
-=======
   - *Jewelry*: Showcase jewelry in the collection;
     - *Necklaces*: Necklaces in collection
     - *Bracelets*: Bracelets in collection
     - *Rings*: Rings in collection
     - *Earrings*: Earrings in collection
->>>>>>> 5be8c40631ad9a8a9aea839571fbbb8960d26bec
   - *About*: Show the company mission and team.
   - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address
 
 - **Process**
-  - ![](card_sort.png)
+  - ![](cardsort.png)
   - [explanation of how your come up with your content organization and navigation.]
 
 #### Sketches (sam)
