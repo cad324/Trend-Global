@@ -21,6 +21,8 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 [Tell us the purpose of the website and what it is all about.]
 
+- The purpose of the website is to communicate information about the mission of Trend International and its products. The content of the site will include a full catalogue of their products, trending products, the mission of Trend International, and a contact page for inquiries.
+
 #### Client Needs and Wants (Clive)
 
 [Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.]
@@ -57,16 +59,20 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
 ![](email1.png)
+![](meetingnotes.png)
 
 ### Target Audience (Milestone 1)
 
 #### Target Audience(s) (Samantha)
 
-  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. The target
+  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. In addition, our client mentioned that their company sells to wholesalers, retailers, designers, and also chain store representatives.
 
 #### Target Audience Needs (Kelly)
 
 [What are the needs of your target audience(s)? Note that these are probably *not* the needs of your client.]
+
+  - Employees making purchasing decisions for retailers/wholesalers want to find quality jewelry on a website, and therefore would like to see quality pictures and clear information on the materials the jewelry are made of, as well as their prices.
+  - Designers would also be interested in knowing what materials the products are made of, as well as their specs (sizes, etc.) and prices.
 
 ### Initial Design (Milestone 1)
 
@@ -87,20 +93,36 @@ Applicable content for our website includes the pictures of the jewelry (necklac
 Example:
 - **Navigation**
   - Home
+  - Trending
   - Jewelry
+<<<<<<< HEAD
     - Trending
     - Rings
     - Bracelets
     - necklaces
+=======
+    - Necklaces
+    - Bracelets
+    - Rings
+    - Earrings
+>>>>>>> 5be8c40631ad9a8a9aea839571fbbb8960d26bec
   - About
   - Contact
 
 - **Content** (List all the content corresponding to main navigation and sub-categories.)
   - *Home*: Summaries of the categories listed in Jewelry and a small preview;
   - *Trending*: show the currently trending items from the entire collection;
+<<<<<<< HEAD
   - *Rings*: Showcase men's jewelry in the collection;
   - *Bracelets*: Showcase women's jewelry in the collection;
   - *Necklaces*: List unisex jewelry in the collection
+=======
+  - *Jewelry*: Showcase jewelry in the collection;
+    - *Necklaces*: Necklaces in collection
+    - *Bracelets*: Bracelets in collection
+    - *Rings*: Rings in collection
+    - *Earrings*: Earrings in collection
+>>>>>>> 5be8c40631ad9a8a9aea839571fbbb8960d26bec
   - *About*: Show the company mission and team.
   - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address
 
@@ -108,11 +130,17 @@ Example:
   - ![](card_sort.png)
   - [explanation of how your come up with your content organization and navigation.]
 
-#### Sketches (sam & kelly)
+#### Sketches (sam)
 
 [Include exploratory idea sketches of your website.]
 
 [Include sketches of your finalized design.]
+
+- ![](homesketch.png)
+- ![](trendingsketch.png)
+- ![](jewelrysketch.png)
+- ![](aboutsketch.png)
+- ![](contactsketch.png)
 
 #### Interactivity (clive & david)
 
