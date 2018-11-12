@@ -6,13 +6,13 @@ Your Team Name: Silver Mammoth
 
 ### Client Selection (Milestone 1)
 
-#### Client Description (Sam)
+#### Client Description (Samantha)
 
 [Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?]
 
 [NOTE: If you are redesigning an existing website, give us the current URL and some screenshots of the current site. Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.]
 
-Our client is Themis Hsieh, a assistant manager at Trend International, which is a jewelry wholesale company with an office in Long Island City. They want a website that can serve as a basic catalogue for their products by displaying images of current pieces. Their key goals include displaying all relevant information to their customers as well as look "beautiful so people want to buy their products!". They currently do not have a website for their USA office.
+Our client is Themis Hsieh, a assistant manager at Trend International, which is a jewelry wholesale company with an office in Long Island City. They want a website that can serve as a basic catalogue for their products by displaying images of current pieces. Their key goals include displaying all relevant information to their customers as well as look "beautiful and elegant". They currently do not have a website for their USA office.
 
 
 ### Client Needs & Wants/Requirements (Milestone 1)
@@ -25,25 +25,50 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 [Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.]
 
-Example:
 - Needs/Wants #1
   - **Needs and Wants** [What does your client and audience need and want?]
-    - Client wants to cater to people who speak different languages.
+    - Client needs to have organized visual displays of the merchandise (jewelry).
   - **Design Ideas and Choices** [How will you meet those needs and wants?]
-    - Create web-pages manually in multiple languages.
+    - Dedicate a page for navigating through the merchandise offered by the client.
   - **Memo** [Justify your decisions; additional notes.]
-    - Create multiple pages in multiple languages manually.
+    - This makes it easy for the target audience (retailers) to find what they want.
 
-#### Client Meeting Notes (Sam)
+
+- Needs/Wants #2
+  - **Needs and Wants** [What does your client and audience need and want?]
+    - Trend International needs their clients to be able  to communicate easily with them.
+  - **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - Create a 'Contact Us' page with a contact form and/or provide all the necessary contact information for our client.
+  - **Memo** [Justify your decisions; additional notes.]
+    - This makes it easy for the target audience (retailers) to have their lingering questions answered. It also helps our client engage with their potential customers.
+
+
+- Needs/Wants #3
+  - **Needs and Wants** [What does your client and audience need and want?]
+    - From the client: "For the website, we are thinking to build classy, elegant web site that is geared more towards advertising the company than actually selling jewelry on internet."
+    So, the website has to be visually appealing and interactive enough to attract new customers.
+  - **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - We will use high quality photos for an elegant feel, and use JavaScript for smooth interactivity.
+  - **Memo** [Justify your decisions; additional notes.]
+    - These designs must be implemented for Trend International to be competitive since other jewelry wholesale companies use the same methods.
+
+#### Client Meeting Notes (Samantha)
 
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
+![](email1.png)
+![](meetingnotes.png)
+
 ### Target Audience (Milestone 1)
 
-#### Target Audience(s) (Kelly)
+#### Target Audience(s) (Samantha)
 
+<<<<<<< HEAD
 [Tell us about the specific audience(s) for this website.]
 Our target audience are employees from retailers such as JC Penny, Macy's, or Kohl's who want to buy wholesale jewelry to sell in their stores.
+=======
+  - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. In addition, our client mentioned that their company sells to wholesalers, retailers, designers, and also chain store representatives.
+>>>>>>> 9067e7daacfe7cde0873cfad646aa3c535c307d5
 
 #### Target Audience Needs (Kelly)
 
@@ -52,13 +77,15 @@ These employees making purchasing decisions for retailers want to find quality j
 
 ### Initial Design (Milestone 1)
 
-#### Content (Sam) - images of jewelry
+#### Content (Samantha)
 
 [Place your content in the **content** folder. NOT in the documents folder.]
 
 [Note any content (e.g., text, image) that you need to make/get from the client here.]
 
-#### Content Organization, Information Architecture, and Navigation (david)
+Applicable content for our website includes the pictures of the jewelry (necklaces, bracelets, rings, earrings) that will be put on display.
+
+#### Content Organization, Information Architecture, and Navigation (David)
 
 [Lay out the plan for how you'll organize the site and which content will go where. Plan out the navigation for the site. Document your process for organizing the content.]
 
@@ -67,31 +94,56 @@ These employees making purchasing decisions for retailers want to find quality j
 Example:
 - **Navigation**
   - Home
-  - Portfolio
-    - Websites
-    - Mobile Apps
-    - Tablets
-  - About Me
+  - Trending
+  - Jewelry
+    - Necklaces
+    - Bracelets
+    - Rings
+    - Earrings
+  - About
+  - Contact
 
 - **Content** (List all the content corresponding to main navigation and sub-categories.)
-  - *Portfolio*: list all the projects (as images) this client has worked on. When the image is hovered over, display a description of the project; add a search function to enable users search for specific projects;
-  - *Websites*: showcase all the websites designed by the client, with thumbnail images and a brief description for each design;
-  - *Mobile Apps*: showcase all the mobile apps designed by the client, with thumbnail images and a brief description for each design;
-  - *Tablets*: showcase all the tablet applications designed by the client, with thumbnail images and a brief description for each design;
+  - *Home*: Summaries of the categories listed in Jewelry and a small preview;
+  - *Trending*: show the currently trending items from the entire collection;
+  - *Jewelry*: Showcase jewelry in the collection;
+    - *Necklaces*: Necklaces in collection
+    - *Bracelets*: Bracelets in collection
+    - *Rings*: Rings in collection
+    - *Earrings*: Earrings in collection
+  - *About*: Show the company mission and team.
+  - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address
 
 - **Process**
-  - [photo of card sort]
+  - ![](card_sort.png)
   - [explanation of how your come up with your content organization and navigation.]
 
-#### Sketches (sam & kelly)
+#### Sketches (sam)
 
 [Include exploratory idea sketches of your website.]
 
 [Include sketches of your finalized design.]
 
+- ![](homesketch.png)
+- ![](trendingsketch.png)
+- ![](jewelrysketch.png)
+- ![](aboutsketch.png)
+- ![](contactsketch.png)
+
 #### Interactivity (clive & david)
 
 [What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.]
+
+  - For mobile view, there will be menu that toggles between showing and hiding the menu items.
+
+    - Reason: Users of the website may be accessing it from mobile devices as well as desktops/laptops, so our navigation must be responsive.
+
+
+  - There will also be custom form validation for the contact page form.
+
+    - Reason: It would make it easier for our clients to check that the user is entering valid information.
+
+
 
 #### Additional Comments (Milestone 1)
 
