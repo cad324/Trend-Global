@@ -89,18 +89,18 @@ Example:
   - Home
   - Jewelry
     - Trending
-    - Men's
-    - Women's
-    - Unisex
+    - Rings
+    - Bracelets
+    - necklaces
   - About
   - Contact
 
 - **Content** (List all the content corresponding to main navigation and sub-categories.)
   - *Home*: Summaries of the categories listed in Jewelry and a small preview;
   - *Trending*: show the currently trending items from the entire collection;
-  - *Men's*: Showcase men's jewelry in the collection;
-  - *Women's*: Showcase women's jewelry in the collection;
-  - *Unisex*: List unisex jewelry in the collection
+  - *Rings*: Showcase men's jewelry in the collection;
+  - *Bracelets*: Showcase women's jewelry in the collection;
+  - *Necklaces*: List unisex jewelry in the collection
   - *About*: Show the company mission and team.
   - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address
 
