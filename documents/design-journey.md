@@ -115,7 +115,7 @@ Example:
 
 - **Process**
   - ![](cardsort.png)
-  - [explanation of how your come up with your content organization and navigation.]
+  - We utilized the card sort procedure to organize the content and navigation. 
 
 #### Sketches (sam)
 
