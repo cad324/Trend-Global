@@ -43,10 +43,12 @@ Example:
 #### Target Audience(s) (Kelly)
 
 [Tell us about the specific audience(s) for this website.]
+Our target audience are employees from retailers such as JC Penny, Macy's, or Kohl's who want to buy wholesale jewelry to sell in their stores.
 
 #### Target Audience Needs (Kelly)
 
 [What are the needs of your target audience(s)? Note that these are probably *not* the needs of your client.]
+These employees making purchasing decisions for retailers want to find quality jewelry on a website, and therefore would like to see quality pictures and clear information on the materials the jewelry are made of, as well as their prices.
 
 ### Initial Design (Milestone 1)
 
