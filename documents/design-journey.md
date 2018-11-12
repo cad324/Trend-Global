@@ -63,17 +63,14 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 #### Target Audience(s) (Samantha)
 
-<<<<<<< HEAD
-[Tell us about the specific audience(s) for this website.]
-Our target audience are employees from retailers such as JC Penny, Macy's, or Kohl's who want to buy wholesale jewelry to sell in their stores.
-=======
   - The target audience of this website as described by our client would be big retail companies, such as JC Penny, Nordstrom, or Macy's that sell jewelry purchased from Jewelry wholesale companies. In addition, our client mentioned that their company sells to wholesalers, retailers, designers, and also chain store representatives.
->>>>>>> 9067e7daacfe7cde0873cfad646aa3c535c307d5
 
 #### Target Audience Needs (Kelly)
 
 [What are the needs of your target audience(s)? Note that these are probably *not* the needs of your client.]
-These employees making purchasing decisions for retailers want to find quality jewelry on a website, and therefore would like to see quality pictures and clear information on the materials the jewelry are made of, as well as their prices.
+
+  - Employees making purchasing decisions for retailers/wholesalers want to find quality jewelry on a website, and therefore would like to see quality pictures and clear information on the materials the jewelry are made of, as well as their prices.
+  - Designers would also be interested in knowing what materials the products are made of, as well as their specs (sizes, etc.) and prices.
 
 ### Initial Design (Milestone 1)
 
