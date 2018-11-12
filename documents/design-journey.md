@@ -21,6 +21,8 @@ Our client is Themis Hsieh, a assistant manager at Trend International, which is
 
 [Tell us the purpose of the website and what it is all about.]
 
+- The purpose of the website is to communicate information about the mission of Trend International and its products. The content of the site will include a full catalogue of their products, trending products, the mission of Trend International, and a contact page for inquiries.
+
 #### Client Needs and Wants (Clive)
 
 [Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.]
