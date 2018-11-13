@@ -114,8 +114,8 @@ Example:
   - *Contact*: Display form to collect inquiries from users. Also display email, phone and mailing address
 
 - **Process**
-  - ![](card_sort.png)
-  - [explanation of how your come up with your content organization and navigation.]
+  - ![](cardsort.png)
+  - We utilized the card sort procedure to organize the content and navigation.
 
 #### Sketches (sam)
 
@@ -141,6 +141,15 @@ Example:
   - There will also be custom form validation for the contact page form.
 
     - Reason: It would make it easier for our clients to check that the user is entering valid information.
+
+
+  - Users will have the option to filter the images in the jewelry collection.
+
+    - Reason: This will make searching for items and comparing them easier
+
+  - We will also include hover effects for when the clients moves the cursor on an images
+
+    - This will focus on the current image and look pleasant in general too.
 
 
 
