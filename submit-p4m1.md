@@ -30,4 +30,4 @@ We affirm our awareness of the standards of the Cornell Code of Academic Integri
 
 [Each team member should sign by adding their name to the list.]
 - Samantha Chu - 11/12/2018
--
+- Clive Duncan - 11/12/2018  
