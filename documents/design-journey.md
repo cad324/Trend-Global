@@ -128,6 +128,8 @@ Example:
 - ![](jewelrysketch.png)
 - ![](aboutsketch.png)
 - ![](contactsketch.png)
+- ![](mobilesketch1.png)
+- ![](mobilesketch2.png)
 
 #### Interactivity (clive & david)
 
