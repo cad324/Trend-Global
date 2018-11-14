@@ -36,6 +36,12 @@ nav ul {
 nav ul li {
   flex-grow: 1;
   font-size: 18px;
+  /* cool fade effects for the hover */
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
 }
 
 nav ul li:hover {
@@ -77,6 +83,7 @@ p {
   margin: 50px 20px;
   border-radius: 5px;
 }
+
 .shop-display-section div h3 {
   margin: 100px auto;
   color: #fff;
