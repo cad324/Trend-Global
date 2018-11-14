@@ -1,0 +1,83 @@
+body {
+  /* TODO: Determine font to use for site */
+  margin: 0;
+}
+
+header{
+  background-color: #000;
+  text-align: center;
+  display: flex;
+}
+
+h1 {
+  color: #000;
+  font-size: 28px;
+  width: 100px;
+  height: 75px;
+  padding-top: 10px;
+  margin: 20px;
+  background: #fff;
+  border-radius: 2px;
+}
+
+nav {
+  flex-grow: 1;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  list-style: none;
+  padding: 10px 0;
+  margin: 50px;
+}
+
+nav ul li {
+  flex-grow: 1;
+  font-size: 18px;
+}
+
+nav ul li:hover {
+  /* TODO: Experiment with hover responses */
+  color: #c3c39b;
+}
+
+/* styles the triangle at the base of the header section */
+.triangle-nav-base {
+  margin: auto;
+  width: 0;
+	height: 0;
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 35px solid #000;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.shop-display-section {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+.shop-display-section div {
+  flex-grow: 1;
+  height: 300px;
+  width: 250px;
+  background-color: #000;
+  margin: 50px 20px;
+  border-radius: 5px;
+}
+.shop-display-section div h3 {
+  margin: 100px auto;
+  color: #fff;
+}
