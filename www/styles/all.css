@@ -94,3 +94,43 @@ p {
   margin: 100px auto;
   color: #fff;
 }
+
+#contact-form {
+  display: inline-block;
+  padding: 20px;
+  margin: 10px 50px;
+  /* background-color: pink; */
+}
+
+#contact-form div {
+  margin: 20px 0;
+}
+
+#contact-form label {
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  text-align: right;
+}
+
+#contact-form input, textarea {
+  /* TODO: Determine the font for input */
+  width: 250px;
+  border: 1px solid #000;
+}
+
+#contact-form textarea {
+  resize: none;
+  height: 150px;
+}
+
+#contact-submit-btn {
+  text-align: center;
+}
+
+#contact-submit-btn input {
+  margin-left: 80px;
+  width: 100px;
+  height: 35px;
+  border-radius: 20px;
+}
