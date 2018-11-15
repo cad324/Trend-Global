@@ -44,6 +44,12 @@ nav ul li {
   transition:.5s;
 }
 
+nav ul li a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+}
+
 nav ul li:hover {
   /* TODO: Experiment with hover responses */
   color: #c3c39b;
