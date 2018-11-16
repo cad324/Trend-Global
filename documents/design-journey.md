@@ -162,7 +162,7 @@ Example:
 
 ## Milestone 2: Draft of Coded Website
 
-### Interactivity (Milestone 2)
+### Interactivity (Milestone 2) (Clive)
 
 [Write your interactivity pseudocode here. Remember you must use two conditional statements.]
 
@@ -173,7 +173,7 @@ if today is a monday:
 
 ```
 
-### Tasks (Milestone 2)
+### Tasks (Milestone 2) (Kelly)
 
 [You will need to come up with at least 4 tasks. List your tasks here. You *do not* have to do user tests yet.]
 
@@ -185,7 +185,7 @@ Task 3:
 
 Task 4:
 
-### Client Meeting (Milestone 2)
+### Client Meeting (Milestone 2) (Samantha Chu)
 
 [By this point, you have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.]
 
