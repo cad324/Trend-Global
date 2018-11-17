@@ -166,11 +166,24 @@ Example:
 
 [Write your interactivity pseudocode here. Remember you must use two conditional statements.]
 
-Example:
+Contact Form
 ```
-if today is a monday:
-  show Monday's soup and the daily special
+Upon submit:
 
+  if name is a not valid text or is empty, display message "Please enter a valid name". Do not submit form.
+
+  if email is not valid or is empty, display message "Please enter a valid email address". Do not submit form.
+
+  Otherwise, submit form
+```
+
+Mobile Menu Toggle
+```
+upon menu icon click
+
+  if menu <ul> contains class "hidden", remove class "hidden"
+
+  Otherwise, add class "hidden" to menu <ul>
 ```
 
 ### Tasks (Milestone 2) (Kelly)
