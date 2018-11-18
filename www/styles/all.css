@@ -54,6 +54,10 @@ nav ul li:hover {
   /* TODO: Experiment with hover responses */
   color: #c3c39b;
 }
+/* current page nav */
+.current{
+  color: #c3c39b;
+}
 
 /* styles the triangle at the base of the header section */
 .triangle-nav-base {
