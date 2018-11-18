@@ -134,3 +134,19 @@ p {
   height: 35px;
   border-radius: 20px;
 }
+.image-container {
+  display: flex;
+  flex-direction: column;
+}
+.image-container ul {
+  display: flex;
+  flex-grow: 1;
+  list-style: none;
+}
+.image-container ul li {
+  flex-grow: 1;
+}
+.image-container ul li img {
+  height: 200px;
+  width: 300px;
+}
