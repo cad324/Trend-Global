@@ -99,6 +99,16 @@ p {
   color: #fff;
 }
 
+/* For the about section page */
+.about-section {
+  margin: auto;
+  width: 60%;
+}
+
+.about-section p {
+  text-align: justify;
+}
+
 #contact-form {
   display: inline-block;
   padding: 20px;
