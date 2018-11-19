@@ -164,3 +164,14 @@ p {
   height: 200px;
   width: 300px;
 }
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3d403f;
+    color: #dfdfda;
+    text-align: left;
+    padding-bottom: 20px;
+}
