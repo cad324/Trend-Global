@@ -196,7 +196,7 @@ Task 2: Where are Trend USA's products manufactured?
 
 Task 3: Please send a question to Trend USA asking how to obtain product quotes.
 
-Task 4: Point out a few popular pieces.
+Task 4: Point out a few popular pieces offered by Trend USA.
 
 ### Client Meeting (Milestone 2) (Samantha Chu)
 
