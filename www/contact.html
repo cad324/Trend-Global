@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles/all.css">
+  <title>Trend International USA Inc</title>
+</head>
+<body>
+
+  <header>
+    <h1>Trend USA</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="trending.html">Trending</a></li>
+        <li><a href="#">Jewelry</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a class= 'current' href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- The triangle thing at the base of the header -->
+  <div class="triangle-nav-base"></div>
+
+  <h2>Contact Us</h2>
+
+  <form id="contact-form" action="https://www.cs.cornell.edu/courses/cs1300/2018fa/submit.php" method="GET" novalidate>
+    <div>
+      <label for="name-field">Name: </label>
+      <input id="name-field" name="Name" type="text"/>
+    </div>
+    <div>
+      <label for="email-field">Email: </label>
+      <input id="email-field" name="Email" type="text"/>
+    </div>
+    <div>
+      <label for="message-box">Message: </label>
+      <textarea id="message-box" name="Message"></textarea>
+    </div>
+    <div id="contact-submit-btn">
+      <input type="submit" value="Send" />
+    </div>
+  </form>
+
+</body>
+</html>

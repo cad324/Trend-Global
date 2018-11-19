@@ -1,0 +1,166 @@
+body {
+  /* TODO: Determine font to use for site */
+  margin: 0;
+}
+
+header{
+  background-color: #000;
+  text-align: center;
+  display: flex;
+}
+
+h1 {
+  color: #000;
+  font-size: 28px;
+  width: 100px;
+  height: 75px;
+  padding-top: 10px;
+  margin: 20px;
+  background: #fff;
+  border-radius: 2px;
+}
+
+nav {
+  flex-grow: 1;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  list-style: none;
+  padding: 10px 0;
+  margin: 50px;
+}
+
+nav ul li {
+  flex-grow: 1;
+  font-size: 18px;
+  /* cool fade effects for the hover */
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+
+nav ul li a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li:hover {
+  /* TODO: Experiment with hover responses */
+  color: #c3c39b;
+}
+/* current page nav */
+.current{
+  color: #c3c39b;
+}
+
+/* styles the triangle at the base of the header section */
+.triangle-nav-base {
+  margin: auto;
+  width: 0;
+	height: 0;
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 35px solid #000;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.shop-display-section {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+.shop-display-section div {
+  flex-grow: 1;
+  height: 300px;
+  width: 250px;
+  background-color: #000;
+  margin: 50px 20px;
+  border-radius: 5px;
+}
+
+.shop-display-section div h3 {
+  margin: 100px auto;
+  color: #fff;
+}
+
+/* For the about section page */
+.about-section {
+  margin: auto;
+  width: 60%;
+}
+
+.about-section p {
+  text-align: justify;
+}
+
+#contact-form {
+  display: inline-block;
+  padding: 20px;
+  margin: 10px 50px;
+  /* background-color: pink; */
+}
+
+#contact-form div {
+  margin: 20px 0;
+}
+
+#contact-form label {
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  text-align: right;
+}
+
+#contact-form input, textarea {
+  /* TODO: Determine the font for input */
+  width: 250px;
+  border: 1px solid #000;
+}
+
+#contact-form textarea {
+  resize: none;
+  height: 150px;
+}
+
+#contact-submit-btn {
+  text-align: center;
+}
+
+#contact-submit-btn input {
+  margin-left: 80px;
+  width: 100px;
+  height: 35px;
+  border-radius: 20px;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+}
+.image-container ul {
+  display: flex;
+  flex-grow: 1;
+  list-style: none;
+}
+.image-container ul li {
+  flex-grow: 1;
+}
+.image-container ul li img {
+  height: 200px;
+  width: 300px;
+}

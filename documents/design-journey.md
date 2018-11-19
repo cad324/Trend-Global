@@ -162,18 +162,31 @@ Example:
 
 ## Milestone 2: Draft of Coded Website
 
-### Interactivity (Milestone 2)
+### Interactivity (Milestone 2) (Clive)
 
 [Write your interactivity pseudocode here. Remember you must use two conditional statements.]
 
-Example:
+Contact Form
 ```
-if today is a monday:
-  show Monday's soup and the daily special
+Upon submit:
 
+  if name is a not valid text or is empty, display message "Please enter a valid name". Do not submit form.
+
+  if email is not valid or is empty, display message "Please enter a valid email address". Do not submit form.
+
+  Otherwise, submit form
 ```
 
-### Tasks (Milestone 2)
+Mobile Menu Toggle
+```
+upon menu icon click
+
+  if menu <ul> contains class "hidden", remove class "hidden"
+
+  Otherwise, add class "hidden" to menu <ul>
+```
+
+### Tasks (Milestone 2) (Kelly)
 
 [You will need to come up with at least 4 tasks. List your tasks here. You *do not* have to do user tests yet.]
 
@@ -185,13 +198,19 @@ Task 3:
 
 Task 4:
 
-### Client Meeting (Milestone 2)
+### Client Meeting (Milestone 2) (Samantha Chu)
 
 [By this point, you have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.]
 
 ### Additional Comments (Milestone 2)
 
 [If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.]
+
+Contact & About: clive
+Home: Samantha
+Trending: david
+Jewelry: Kelly
+
 
 
 ## Milestone 3: Presentation & Demo Ready Draft
