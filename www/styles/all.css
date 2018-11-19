@@ -129,6 +129,10 @@ p {
   text-align: right;
 }
 
+#contact-form label em {
+  color: #c70505;
+}
+
 #contact-form input, textarea {
   /* TODO: Determine the font for input */
   width: 250px;
