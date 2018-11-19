@@ -190,13 +190,13 @@ upon menu icon click
 
 [You will need to come up with at least 4 tasks. List your tasks here. You *do not* have to do user tests yet.]
 
-Task 1: [describe your task]
+Task 1: Does Trend USA offer products for kids?
 
-Task 2:
+Task 2: Where are Trend USA's products manufactured?
 
-Task 3:
+Task 3: Please send a question to Trend USA asking how to obtain product quotes.
 
-Task 4:
+Task 4: Point out a few popular pieces.
 
 ### Client Meeting (Milestone 2) (Samantha Chu)
 
