@@ -1,0 +1,67 @@
+nav ul{
+  margin: 5px;
+  padding-top: 20px;
+  text-align: center;
+
+}
+
+nav li{
+  display: inline-block;
+  padding: 5px 10px;
+  border: 2px #3d403f solid;
+  margin: 0px 5px;
+}
+
+nav li a{
+  text-decoration: none;
+}
+
+body {
+  font-family: sans-serif;
+  color: #3d403f;
+  background-color: #dfdfda;
+}
+
+h1 {
+  padding-top: 20px;
+  Margin-left: 150px;
+  font-size: 170%;
+  color: black;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3d403f;
+    color: #dfdfda;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+em{
+  margin-left: 120px;
+  font-style: italic;
+  font-size: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: #3d403f;
+}
+
+/* visited link */
+a:visited {
+    color: #3d403f;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: #3d403f;
+}
