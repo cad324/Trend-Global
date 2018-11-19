@@ -54,6 +54,7 @@ nav ul li:hover {
   /* TODO: Experiment with hover responses */
   color: #c3c39b;
 }
+
 /* current page nav */
 .current{
   color: #c3c39b;
@@ -109,11 +110,12 @@ p {
   text-align: justify;
 }
 
+#form-container {
+  text-align: center;
+}
+
 #contact-form {
-  display: inline-block;
   padding: 20px;
-  margin: 10px 50px;
-  /* background-color: pink; */
 }
 
 #contact-form div {
