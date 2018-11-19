@@ -25,23 +25,25 @@
 
   <h2>Contact Us</h2>
 
-  <form id="contact-form" action="https://www.cs.cornell.edu/courses/cs1300/2018fa/submit.php" method="GET" novalidate>
-    <div>
-      <label for="name-field">Name: </label>
-      <input id="name-field" name="Name" type="text"/>
-    </div>
-    <div>
-      <label for="email-field">Email: </label>
-      <input id="email-field" name="Email" type="text"/>
-    </div>
-    <div>
-      <label for="message-box">Message: </label>
-      <textarea id="message-box" name="Message"></textarea>
-    </div>
-    <div id="contact-submit-btn">
-      <input type="submit" value="Send" />
-    </div>
-  </form>
+  <div id="form-container">
+    <form id="contact-form" action="https://www.cs.cornell.edu/courses/cs1300/2018fa/submit.php" method="GET" novalidate>
+      <div>
+        <label for="name-field">Name: </label>
+        <input id="name-field" name="Name" type="text"/>
+      </div>
+      <div>
+        <label for="email-field">Email: </label>
+        <input id="email-field" name="Email" type="text"/>
+      </div>
+      <div>
+        <label for="message-box">Message: </label>
+        <textarea id="message-box" name="Message"></textarea>
+      </div>
+      <div id="contact-submit-btn">
+        <input type="submit" value="Send" />
+      </div>
+    </form>
+  </div>
 
 </body>
 </html>
