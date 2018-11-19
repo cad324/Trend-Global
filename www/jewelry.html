@@ -3,25 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trend International USA Inc</title>
   <link rel="stylesheet" type="text/css" href="styles/all.css">
+  <title>Trend International USA Inc</title>
 </head>
 <body>
 
-<div id="banner">
-  <h2>Jewelry</h2>
-  <!-- Smallbox is the div encompassing "Food" class and "Performances" class-->
-</div>
-<hr>
+  <header>
+    <h1>Trend USA</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class='current' href="trending.html">Trending</a></li>
+        <li><a href="jewelry.html">Jewelry</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- The triangle thing at the base of the header -->
+  <div class="triangle-nav-base"></div>
 
-<div id="picsbox">
-  <!-- Kids -->
-  <div class="jewelrypics">
-    <!-- Kid's Jewelry Section -->
-    <p>
-      <strong>Kid's Jewelry</strong>
-    </p>
-    <div id="kids-pics">
+  <h2>Trending Pieces</h2>
+  <p> Keep up with the vogue, check out our popular pieces</p>
+
+  <div class='image-container'>
+    <div class='row'>
       <img src="images/kids1.jpg" alt="kids1" width="245">
       <!-- Sourced from Trend USA -->
       <img src="images/kids2.jpg" alt="kids2" width="245">
@@ -41,12 +47,7 @@
       <img src="images/kids9.jpg" alt="kids9" width="245">
       <!-- Sourced from Trend USA -->
     </div>
-
-    <!-- Men's Jewelry Section -->
-    <p>
-      <strong>Men's Jewelry</strong>
-    </p>
-    <div id="mens-pics">
+    <div class='row'>
       <img src="images/mens1.jpg" alt="mens1" width="245">
       <!-- Sourced from Trend USA -->
       <img src="images/mens2.jpg" alt="mens2" width="245">
@@ -65,16 +66,10 @@
       <!-- Sourced from Trend USA -->
       <img src="images/mens9.jpg" alt="mens9" width="245">
       <!-- Sourced from Trend USA -->
-      <img src="images/mens19.jpg" alt="mens10" width="245">
+      <img src="images/mens10.jpg" alt="mens10" width="245">
       <!-- Sourced from Trend USA -->
     </div>
-  </div>
-
 </div>
 
-  <div class="footer">
-    <hr>
-    <em> Trend International USA Inc 2018</em>
-  </div>
 </body>
 </html>
