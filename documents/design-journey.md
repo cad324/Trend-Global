@@ -174,12 +174,14 @@ Upon submit:
 
   if email is not valid or is empty, display message "Please enter a valid email address". Do not submit form.
 
+  if message field is empty, display message "Please write your message here". Do not submit form.
+
   Otherwise, submit form
 ```
 
 Mobile Menu Toggle
 ```
-upon menu icon click
+upon menu icon click:
 
   if menu <ul> contains class "hidden", remove class "hidden"
 
