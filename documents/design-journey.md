@@ -202,6 +202,8 @@ Task 4: Point out a few popular pieces offered by Trend USA.
 
 [By this point, you have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.]
 
+After showing our client the initial design of the website, they liked the feel for the site.
+
 ### Additional Comments (Milestone 2)
 
 [If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.]
