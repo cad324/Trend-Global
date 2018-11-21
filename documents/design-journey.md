@@ -204,9 +204,9 @@ Task 4: Point out a few popular pieces offered by Trend USA.
 
 [By this point, you have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.]
 
-After showing our client the initial design of the website, they liked the feel for the site. However, they had a couple changes from the original layout that they sent us. They wanted us to split the jewelry webpage into different categories, as noted in the meeting notes. 
+After showing our client the initial design of the website, they liked the feel for the site. However, they had a couple changes from the original layout that they sent us. They wanted us to split the jewelry webpage into different categories, as noted in the meeting notes.
 
-![](meetingnotes M2.png)
+![](meetingnotesM2.png)
 
 
 ### Additional Comments (Milestone 2)
