@@ -207,3 +207,38 @@ p {
     text-align: left;
     padding-bottom: 20px;
 }
+
+.mainContent {
+}
+.slideshow {
+  width: 500px;
+  margin: 0px auto;
+}
+
+.slideshow h2 {
+  text-align: center;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+.slideshowImageHolder {
+  width: 500px;
+  margin: 0px auto;
+}
+
+.slideshowButtonHolder {
+  position: relative;
+  height: 50px;
+}
+
+.slideshowNextButton {
+  width: 60px;
+  text-align: center;
+  padding: 10px;
+  border: 1px black solid;
+  border-radius: 5px;
+  position: absolute;
+  right: 0px;
+  cursor: pointer;
+  background-color: gray;
+}
