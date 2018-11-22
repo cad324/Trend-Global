@@ -8,9 +8,10 @@ $(document).ready(function() {
   // Event listener, called when window width changes
   $(window).resize(function() {
     //Condition to handle when to show show/hide nav items based on window/device width
-    if ($(window).width() < 1000 && !$("nav ul").hasClass("hidden")) {
+    console.log($(window).width() < 1000 && !$("nav ul").hasClass("hidden") && !$(".menu-icon").hasClass("switch"));
+    if ($(window).width() < 1000 && !$("nav ul").hasClass("hidden") && !$(".menu-icon").hasClass("switch")) {
       $("nav ul").addClass("hidden");
-    } else if ($(window).width() >= 1000 && $("nav ul").hasClass("hidden")) {
+    } else if ($(window).width() > 1000 && $("nav ul").hasClass("hidden")) {
       $("nav ul").removeClass("hidden");
     }
   });
