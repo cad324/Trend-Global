@@ -141,6 +141,7 @@ p {
 
 #contact-form {
   padding: 20px;
+  display: inline-block;
 }
 
 #contact-form div {
@@ -152,10 +153,16 @@ p {
   vertical-align: top;
   width: 80px;
   text-align: right;
+  font-weight: bold;
 }
 
-#contact-form label em {
+#contact-form em, .error-message {
   color: #c70505;
+}
+
+#contact-form .error-message {
+  margin-left: 85px;
+  text-align: left;
 }
 
 #contact-form input, textarea {
