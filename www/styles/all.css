@@ -55,6 +55,10 @@ nav ul li:hover {
   color: #c3c39b;
 }
 
+.menu-icon {
+  display: none;
+}
+
 /* current page nav */
 .current{
   color: #c3c39b;
@@ -210,6 +214,7 @@ p {
 
 .mainContent {
 }
+
 .slideshow {
   width: 500px;
   margin: 0px auto;
@@ -241,4 +246,41 @@ p {
   right: 0px;
   cursor: pointer;
   background-color: gray;
+}
+
+@media (max-width: 1000px) {
+
+  nav ul li {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+    position: absolute;
+    right: 0;
+    margin: 35px 50px 0 0;
+  }
+
+  .menu-icon div {
+    background-color: #fff;
+    width: 45px;
+    height: 5px;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  .switch .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+  }
+
+  .switch .bar2 {
+    opacity: 0;
+  }
+
+  .switch .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+  }
+
 }
