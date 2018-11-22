@@ -248,10 +248,22 @@ p {
   background-color: gray;
 }
 
+.hidden {
+  display: none;
+}
+
 @media (max-width: 1000px) {
 
+  nav ul {
+    display: block;
+    text-align: right;
+    position: relative;
+    right: 0;
+    top: 20px;
+  }
+
   nav ul li {
-    display: none;
+    margin: 10px 0;
   }
 
   .menu-icon {
@@ -263,15 +275,15 @@ p {
 
   .menu-icon div {
     background-color: #fff;
-    width: 45px;
-    height: 5px;
+    width: 35px;
+    height: 4px;
     margin: 6px 0;
     transition: 0.4s;
   }
 
   .switch .bar1 {
-    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
-    transform: rotate(-45deg) translate(-9px, 6px);
+    -webkit-transform: rotate(-45deg) translate(-8px, 8px);
+    transform: rotate(-45deg) translate(-5px, 5px);
   }
 
   .switch .bar2 {
@@ -280,7 +292,7 @@ p {
 
   .switch .bar3 {
     -webkit-transform: rotate(45deg) translate(-8px, -8px);
-    transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-9px, -9px);
   }
 
 }
