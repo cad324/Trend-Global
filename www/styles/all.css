@@ -281,6 +281,7 @@ p {
     transition: 0.4s;
   }
 
+  /* Class switch is the state where the menu icon is an "X" */
   .switch .bar1 {
     -webkit-transform: rotate(-45deg) translate(-8px, 8px);
     transform: rotate(-45deg) translate(-5px, 5px);
