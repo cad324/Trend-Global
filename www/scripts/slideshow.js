@@ -4,11 +4,11 @@
 $(document).ready(function() {
   // List of images
   var images = [
-    "images/gold1.JPG", // index 0
-    "images/kids1.jpg", // index 1
-    "images/mens1.JPG", // index 2
-    "images/trend1.jpg", // index 3
-    "images/trend8.jpg"  // index 4
+    "images/background1.JPG", // index 0
+    "images/background2.jpg", // index 1
+    "images/background3.JPG", // index 2
+    "images/background4.jpg", // index 3
+    "images/background5.jpg"  // index 4
   ];
 
  // Current Index
