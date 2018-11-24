@@ -90,7 +90,7 @@ p {
   flex-grow: 1;
   height: 300px;
   width: 250px;
-  background-color: #000;
+  background-color: white;
   margin: 50px 20px;
   border-radius: 5px;
 }
