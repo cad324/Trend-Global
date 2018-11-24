@@ -1,4 +1,6 @@
-// When the document is ready
+// Code for slideshow referenced from Lab 12 Solutions, not copied
+
+// When document is ready
 $(document).ready(function() {
   // List of images
   var images = [
@@ -9,24 +11,18 @@ $(document).ready(function() {
     "images/trend8.jpg"  // index 4
   ];
 
-  // The index of the image that is currently displayed
+ // Current Index
   var currentIndex = 0;
 
-  // When the next button is clicked
+  // When On Click
   $("#slideshowNext").click(function () {
-    // YOUR CODE HERE
-
-    // change the index to next image
     currentIndex = currentIndex + 1;
 
-    // update Index
+    // updating Index
     if (currentIndex >= images.length) {
       currentIndex = 0
-
     }
     // update new images
     $("#slideshowImage").attr("src", images[currentIndex]);
-
-    // END OF YOUR CODE
   });
 });
