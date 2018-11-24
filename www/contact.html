@@ -4,12 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="styles/all.css">
+  <script type="text/javascript" src="scripts/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="scripts/menu-toggle.js"></script>
   <title>Trend International USA Inc</title>
 </head>
 <body>
 
   <header>
     <h1><img src="images/trendlogo.jpg" alt="Logo" width="100"></h1>
+    <div class="menu-icon">
+      <div class="switch bar1"></div>
+      <div class="switch bar2"></div>
+      <div class="switch bar3"></div>
+    </div>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
@@ -26,21 +33,26 @@
   <!-- The triangle thing at the base of the header -->
   <div class="triangle-nav-base"></div>
 
-  <h2>Make Trend USA your wholesale Jewelry source!</h2>
+  <h2>Contact Us</h2>
 
+  <p>Getting in touch is easy! Have any comments or queries? We would love to here from you. </p>
   <div id="form-container">
     <form id="contact-form" action="https://www.cs.cornell.edu/courses/cs1300/2018fa/submit.php" method="GET" novalidate>
+      <p>Fields marked with an <em>*</em> are required</p>
       <div>
         <label for="name-field">Name<em>*</em>: </label>
         <input id="name-field" name="Name" type="text"/>
+        <p class="error-message">| Please enter a valid name</p>
       </div>
       <div>
         <label for="email-field">Email<em>*</em>: </label>
         <input id="email-field" name="Email" type="text"/>
+        <p class="error-message">| Please enter a valid email address</p>
       </div>
       <div>
         <label for="message-box">Message<em>*</em>: </label>
         <textarea id="message-box" name="Message"></textarea>
+        <p class="error-message">| Please enter your message here</p>
       </div>
       <div id="contact-submit-btn">
         <input type="submit" value="Send" />

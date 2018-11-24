@@ -55,6 +55,10 @@ nav ul li:hover {
   color: #c3c39b;
 }
 
+.menu-icon {
+  display: none;
+}
+
 /* current page nav */
 .current{
   color: #c3c39b;
@@ -137,6 +141,7 @@ p {
 
 #contact-form {
   padding: 20px;
+  display: inline-block;
 }
 
 #contact-form div {
@@ -148,10 +153,16 @@ p {
   vertical-align: top;
   width: 80px;
   text-align: right;
+  font-weight: bold;
 }
 
-#contact-form label em {
+#contact-form em, .error-message {
   color: #c70505;
+}
+
+#contact-form .error-message {
+  margin-left: 85px;
+  text-align: left;
 }
 
 #contact-form input, textarea {
@@ -210,6 +221,7 @@ p {
 
 .mainContent {
 }
+
 .slideshow {
   width: 500px;
   margin: 0px auto;
@@ -241,4 +253,54 @@ p {
   right: 0px;
   cursor: pointer;
   background-color: gray;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+
+  nav ul {
+    display: none;
+    text-align: right;
+    position: relative;
+    right: 0;
+    top: 20px;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+  }
+
+  .menu-icon {
+    display: block;
+    position: absolute;
+    right: 0;
+    margin: 35px 50px 0 0;
+  }
+
+  .menu-icon div {
+    background-color: #fff;
+    width: 35px;
+    height: 4px;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  /* Class switch is the state where the menu icon is an "X" */
+  .switch .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-8px, 8px);
+    transform: rotate(-45deg) translate(-5px, 5px);
+  }
+
+  .switch .bar2 {
+    opacity: 0;
+  }
+
+  .switch .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-9px, -9px);
+  }
+
 }
