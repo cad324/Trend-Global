@@ -308,6 +308,10 @@ p {
 .bottomStatement {
   background-color: black;
   color: white;
-  padding: 30px;
+  padding: 40px;
   font-size: 10px;
+}
+
+.hpheading {
+  text-align: center;
 }
