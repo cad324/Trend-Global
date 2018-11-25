@@ -58,6 +58,8 @@ Our client is Themis Hsieh, an assistant manager at Trend International, which i
 
 [By this point, you have met once with your client to discuss all their requirements. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Include these artifacts here.]
 
+We held a Skype meeting with our Client. Our group met up together and video-chatted our client together, and we discussed many features of the website. We have attached the follow-up email that our client sent us, and also the notes that our note-taker took during the Skype meeting.
+
 ![](email1.png)
 ![](meetingnotes.png)
 
@@ -117,7 +119,7 @@ Example:
   - ![](cardsort.png)
   - We utilized the card sort procedure to organize the content and navigation.
 
-#### Sketches (sam)
+#### Sketches (Samantha)
 
 [Include exploratory idea sketches of your website.]
 
@@ -207,7 +209,7 @@ Task 4: Point out a few popular pieces offered by Trend USA.
 
 [By this point, you have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.]
 
-After showing our client the initial design of the website, they liked the feel for the site. However, they had a couple changes from the original layout that they sent us. They wanted us to split the jewelry webpage into different categories, as noted in the meeting notes.
+We had a second Skype meeting with our client. After showing our client the initial design of the website, they liked the feel for the site. However, they had a couple changes from the original layout that they sent us. They wanted us to split the jewelry webpage into different categories, as noted in the meeting notes.
 
 ![](meetingnotesM2.png)
 
