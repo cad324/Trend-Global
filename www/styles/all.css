@@ -314,3 +314,19 @@ p {
 .hpheading {
   text-align: center;
 }
+
+#goldNavItem {
+  display: inline-block;
+  position: relative;
+
+}
+
+#goldDropdown {
+  position: absolute;
+  background-color: gold;
+  color: black;
+  padding: 10px;
+  left:30px;
+  width: 130px;
+  text-align: left;
+}

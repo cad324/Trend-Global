@@ -9,6 +9,8 @@
   <script type="text/javascript" src="scripts/jquery-3.3.1.min.js"></script>
   <script type="text/javascript" src="scripts/slideshow.js"></script>
   <script type="text/javascript" src="scripts/menu-toggle.js"></script>
+  <script type="text/javascript" src="scripts/dropdown.js"></script>
+
 </head>
 <body>
 
@@ -23,7 +25,20 @@
       <ul>
         <li><a class='current' href="index.html">Home</a></li>
         <li><a href="trending.html">Trending</a></li>
-        <li><a href="gold.html">14k/10k Gold </a></li>
+        <li id="goldNavItem"><a href="gold.html">14k/10k Gold </a>
+          <div id="goldDropdown" class="hidden">
+              <div><a href="sterlingsilver.html">Freshwater Pearl </a></div>
+              <div><a href="#">test item 2</a></div>
+              <div><a href="#">Freshwater Pearl </a></div>
+              <div><a href="#">test item 2</a></div>
+              <div><a href="#">Freshwater Pearl </a></div>
+              <div><a href="#">test item 2</a></div>
+              <div><a href="#">Freshwater Pearl </a></div>
+              <div><a href="#">test item 2</a></div>
+          </div>
+
+        </li>
+
         <li><a href="sterlingsilver.html">Sterling Silver</a></li>
         <li><a href="men.html">Men's Jewelry</a></li>
         <li><a href="kids.html">Kid's Jewelry</a></li>
