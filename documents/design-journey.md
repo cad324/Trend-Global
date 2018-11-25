@@ -121,6 +121,9 @@ Example:
 
 [Include exploratory idea sketches of your website.]
 
+![](exploratorysketch1.png)
+![](exploratorysketch2.png)
+
 [Include sketches of your finalized design.]
 
 - ![](homesketch.png)
