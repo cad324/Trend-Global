@@ -197,9 +197,18 @@ p {
   flex-grow: 1;
   list-style: none;
 }
-
+.hidden {
+  display: none;
+}
 .image-container ul li {
   flex-grow: 1;
+  position: relative;
+}
+.image-container ul li span {
+  position: absolute;
+  bottom: 50%;
+  left: 30%;
+  padding-right: 7em;
 }
 
 .image-container ul li img {
