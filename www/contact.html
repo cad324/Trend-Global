@@ -6,6 +6,7 @@
   <link rel="stylesheet" type="text/css" href="styles/all.css">
   <script type="text/javascript" src="scripts/jquery-3.3.1.min.js"></script>
   <script type="text/javascript" src="scripts/menu-toggle.js"></script>
+  <script type="text/javascript" src="scripts/validate.js"></script>
   <title>Trend International USA Inc</title>
 </head>
 <body>
@@ -41,18 +42,18 @@
       <p>Fields marked with an <em>*</em> are required</p>
       <div>
         <label for="name-field">Name<em>*</em>: </label>
-        <input id="name-field" name="Name" type="text"/>
-        <p class="error-message">| Please enter a valid name</p>
+        <input id="name-field" name="Name" type="text" required/>
+        <p id="name-field-error" class="error-message hidden">| Please enter a valid name</p>
       </div>
       <div>
         <label for="email-field">Email<em>*</em>: </label>
-        <input id="email-field" name="Email" type="text"/>
-        <p class="error-message">| Please enter a valid email address</p>
+        <input id="email-field" name="Email" type="email" required/>
+        <p id="email-field-error" class="error-message hidden">| Please enter a valid email address</p>
       </div>
       <div>
         <label for="message-box">Message<em>*</em>: </label>
-        <textarea id="message-box" name="Message"></textarea>
-        <p class="error-message">| Please enter your message here</p>
+        <textarea id="message-box" name="Message" required></textarea>
+        <p id="message-field-error" class="error-message hidden">| Please enter your message here</p>
       </div>
       <div id="contact-submit-btn">
         <input type="submit" value="Send" />
@@ -61,7 +62,7 @@
   </div>
 
   <div class="bottomStatement">
-      <h2>© Copyright 2018 Trend International USA.</h2>
+      <p>© Copyright 2018 Trend International USA.</p>
   </div>
 
 </body>
