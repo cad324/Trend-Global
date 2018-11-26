@@ -1,6 +1,7 @@
 body {
   /* TODO: Determine font to use for site */
   margin: 0;
+
 }
 
 header{
@@ -205,6 +206,9 @@ p {
   display: none;
 }
 
+.left-img {
+  float: right;
+}
 .image-container ul li {
   flex-grow: 1;
   position: relative;
