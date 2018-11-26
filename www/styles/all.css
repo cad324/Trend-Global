@@ -193,6 +193,9 @@ p {
 }
 
 .image-container ul {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 100px;
   display: flex;
   flex-grow: 1;
   list-style: none;
@@ -205,18 +208,21 @@ p {
 .image-container ul li {
   flex-grow: 1;
   position: relative;
+  border-style: solid;
+  margin-right: 50px;
 }
 
 .image-container ul li span {
-  position: absolute;
-  bottom: 50%;
-  left: 30%;
+  position: relative;
   padding-right: 7em;
+  border-style: solid;
+  margin-bottom: 50px;
 }
 
 .image-container ul li img {
-  height: 200px;
-  width: 300px;
+  height: 400px;
+  width: 350px;
+  position: relative;
 }
 
 .footer{

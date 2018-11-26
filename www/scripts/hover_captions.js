@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  //Display captions on hover 
+  //Display captions on hover
    images = ['#img1','#img2','#img3','#img4','#img5','#img6']
    captions = ['#caption1','#caption2','#caption3','#caption4','#caption5','#caption6']
 
