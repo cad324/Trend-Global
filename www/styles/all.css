@@ -197,13 +197,16 @@ p {
   flex-grow: 1;
   list-style: none;
 }
+
 .hidden {
   display: none;
 }
+
 .image-container ul li {
   flex-grow: 1;
   position: relative;
 }
+
 .image-container ul li span {
   position: absolute;
   bottom: 50%;
@@ -261,10 +264,6 @@ p {
   right: 0px;
   cursor: pointer;
   background-color: gray;
-}
-
-.hidden {
-  display: none;
 }
 
 @media (max-width: 1000px) {
