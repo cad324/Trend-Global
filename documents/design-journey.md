@@ -197,11 +197,11 @@ upon menu icon click:
 
 [You will need to come up with at least 4 tasks. List your tasks here. You *do not* have to do user tests yet.]
 
-Task 1: Does Trend USA offer products for kids?
+Task 1: Identify a gold gemstone product.
 
-Task 2: Where are Trend USA's products manufactured?
+Task 2: Locate where Trend USA's products are manufactured.
 
-Task 3: Please send a question to Trend USA asking how to obtain product quotes.
+Task 3: Send a question to Trend USA asking how to obtain product quotes.
 
 Task 4: Point out a few popular pieces offered by Trend USA.
 
