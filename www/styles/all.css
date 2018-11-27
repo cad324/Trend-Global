@@ -24,6 +24,7 @@ nav {
   flex-grow: 1;
 }
 
+nav ul:visited,
 nav ul {
   display: flex;
   flex-direction: row;
@@ -88,6 +89,12 @@ p {
   text-align: center;
   margin: auto;
   width: 80%;
+}
+
+.shop-display-section a[href="gold.html"]:visited,
+.shop-display-section a[href="sterlingsilver.html"]:visited,
+.shop-display-section a[href="trending.html"]:visited{
+  color: black;
 }
 
 .shop-display-section div {
