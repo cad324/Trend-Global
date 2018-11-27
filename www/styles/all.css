@@ -327,6 +327,10 @@ p {
   color: white;
   padding: 40px;
   font-size: 12px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .hpheading {
