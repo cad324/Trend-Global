@@ -221,27 +221,28 @@ p {
   display: none;
 }
 
-.left-img {
-  float: right;
-}
 .image-container ul li {
   flex-grow: 1;
   position: relative;
   border-style: solid;
   margin-right: 50px;
+  display: flex;
+  flex-direction: row;
 }
 
 .image-container ul li span {
   position: relative;
   padding-right: 7em;
   border-style: solid;
-  margin-bottom: 50px;
+
+  flex-grow: 1;
 }
 
 .image-container ul li img {
-  height: 400px;
-  width: 350px;
+  height: 200px;
+  width: 100px;
   position: relative;
+  flex-grow: 2;
 }
 
 .footer{
