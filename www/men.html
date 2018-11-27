@@ -7,6 +7,7 @@
   <script type="text/javascript" src="scripts/jquery-3.3.1.min.js"></script>
   <script type="text/javascript" src="scripts/menu-toggle.js"></script>
   <script type="text/javascript" src="scripts/hover_captions.js"></script>
+  <script type="text/javascript" src="scripts/dropdown.js"></script>
   <title>Trend International USA Inc</title>
 </head>
 <body>
@@ -22,7 +23,15 @@
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="trending.html">Trending</a></li>
-        <li><a href="gold.html">14k/10k Gold</a></li>
+        <li id="goldNavItem"><a href="gold.html">14k/10k Gold</a>
+          <div id="goldDropdown" class="hidden">
+              <div><a href="plaingold3dprint.html">Plain Gold/3D</a></div>
+              <div><a href="gemstone.html">Gemstones</a></div>
+              <div><a href="diamonds.html">Diamonds </a></div>
+              <div><a href="czstone.html">CZ & Stone</a></div>
+          </div>
+
+        </li>
         <li><a href="sterlingsilver.html">Sterling Silver</a></li>
         <li><a class='current' href="men.html">Men's Jewelry</a></li>
         <li><a href="kids.html">Kid's Jewelry</a></li>
