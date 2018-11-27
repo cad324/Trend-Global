@@ -41,12 +41,12 @@ nav ul:visited, nav ul {
 nav ul li {
   flex-grow: 1;
   font-size: 18px;
-  /* cool fade effects for the hover */
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition:.5s;
+  /* the following code is with help from https://www.w3schools.com/css/css3_transitions.asp */
+  -o-transition:.4s;
+  -ms-transition:.4s;
+  -moz-transition:.4s;
+  -webkit-transition:.4s;
+  transition:.4s;
 }
 
 nav ul li a {
@@ -144,6 +144,10 @@ p {
 
 .about-subsection figure img {
   height: 200px;
+}
+
+.mainContent {
+  text-align:center;
 }
 
 #form-container {
@@ -253,8 +257,9 @@ p {
 }
 
 .slideshow {
-  width: 500px;
+  /* width: 500px; */
   margin: 0px auto;
+  text-align: center;
 }
 
 .slideshow h2 {
@@ -264,8 +269,28 @@ p {
 }
 
 .slideshowImageHolder {
-  width: 500px;
+  /* width: 500px; */
   margin: 0px auto;
+}
+
+#slide-arrow-next, #slide-arrow-prev {
+  cursor: pointer;
+  display: inline;
+  padding: 8px 12px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.8;
+  /* transitions fade for smooth feel */
+  -o-transition:.6s;
+  -ms-transition:.6s;
+  -moz-transition:.6s;
+  -webkit-transition:.6s;
+  transition:.6s;
+}
+
+#slide-arrow-next:hover, #slide-arrow-prev:hover {
+  opacity: 1;
 }
 
 .slideshowButtonHolder {
@@ -284,6 +309,27 @@ p {
   cursor: pointer;
   background-color: gray;
 }
+
+.hpheading {
+  text-align: center;
+}
+
+#goldNavItem {
+  display: inline-block;
+  position: relative;
+}
+
+#goldDropdown {
+  position: absolute;
+  background-color: gold;
+  color: black;
+  padding: 10px;
+  left:30px;
+  width: 130px;
+  text-align: left;
+}
+
+/* MOBILE RESPONSIVE CODE STARTS BELOW. BE CAREFUL */
 
 @media (max-width: 1000px) {
 
@@ -329,36 +375,4 @@ p {
     transform: rotate(45deg) translate(-9px, -9px);
   }
 
-}
-
-.bottomStatement {
-  background-color: black;
-  color: white;
-  padding: 40px;
-  font-size: 12px;
-  position: fixed;
-  text-align: center;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-.hpheading {
-  text-align: center;
-}
-
-#goldNavItem {
-  display: inline-block;
-  position: relative;
-
-}
-
-#goldDropdown {
-  position: absolute;
-  background-color: gold;
-  color: black;
-  padding: 10px;
-  left:30px;
-  width: 130px;
-  text-align: left;
 }
