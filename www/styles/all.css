@@ -1,7 +1,12 @@
 body {
   /* TODO: Determine font to use for site */
   margin: 0;
+  padding-bottom: 150px;
+}
 
+html {
+  min-height: 100%;
+  position: relative;
 }
 
 header{
@@ -24,8 +29,7 @@ nav {
   flex-grow: 1;
 }
 
-nav ul:visited,
-nav ul {
+nav ul:visited, nav ul {
   display: flex;
   flex-direction: row;
   color: #fff;
@@ -237,17 +241,15 @@ p {
 }
 
 .footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: left;
-    padding-bottom: 20px;
-}
-
-.mainContent {
+  margin:0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: left;
+  padding: 20px 0;
 }
 
 .slideshow {
