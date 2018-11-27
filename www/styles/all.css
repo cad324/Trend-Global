@@ -161,6 +161,7 @@ p {
 
 #contact-form div {
   margin: 20px 0;
+  text-align: left;
 }
 
 #contact-form label {
@@ -173,11 +174,7 @@ p {
 
 #contact-form em, .error-message {
   color: #c70505;
-}
-
-#contact-form .error-message {
-  margin-left: 85px;
-  text-align: left;
+  display: inline;
 }
 
 #contact-form input, textarea {
@@ -193,11 +190,12 @@ p {
 }
 
 #contact-submit-btn {
-  text-align: center;
+  padding-left: 90px;
 }
 
 #contact-submit-btn input {
-  margin-left: 80px;
+  display: block;
+  margin:auto;
   width: 100px;
   height: 35px;
   border-radius: 20px;
