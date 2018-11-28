@@ -219,6 +219,14 @@ p {
   display: none;
 }
 
+.flex {
+  display: flex;
+}
+
+.block {
+  display: block;
+}
+
 .image-container ul li {
   flex-grow: 1;
   position: relative;
