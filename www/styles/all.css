@@ -256,7 +256,6 @@ p {
 }
 
 .slideshow {
-  /* width: 500px; */
   margin: 0px auto;
   text-align: center;
 }
@@ -270,16 +269,18 @@ p {
 .slideshowImageHolder {
   /* width: 500px; */
   margin: 0px auto;
+  display: inline-flex;
+  flex-direction: row;
 }
 
 #slide-arrow-next, #slide-arrow-prev {
   cursor: pointer;
-  display: inline;
-  padding: 8px 12px;
+  margin-top: 100px;
+  padding: 5px 12px;
   border-radius: 50%;
   color: #fff;
   background-color: #000;
-  opacity: 0.8;
+  opacity: 0.5;
   /* transitions fade for smooth feel */
   -o-transition:.6s;
   -ms-transition:.6s;
