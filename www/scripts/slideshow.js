@@ -14,6 +14,7 @@ $(document).ready(function() {
  // Current Index
   var currentIndex = 0;
 
+/*
   // When On Click
   $("#slideshowNext").click(function () {
     currentIndex = currentIndex + 1;
@@ -24,5 +25,28 @@ $(document).ready(function() {
     }
     // update new images
     $("#slideshowImage").attr("src", images[currentIndex]);
+  }); */
+
+  $("#slide-arrow-next").click(function() {
+    currentIndex = currentIndex + 1;
+
+    // updating Index
+    if (currentIndex >= images.length) {
+      currentIndex = 0
+    }
+    // update new images
+    $("#slideshowImage").attr("src", images[currentIndex]);
   });
+
+  $("#slide-arrow-prev").click(function() {
+    currentIndex = currentIndex - 1;
+
+    // updating Index
+    if (currentIndex < 0) {
+      currentIndex = images.length -1;
+    }
+    // update new images
+    $("#slideshowImage").attr("src", images[currentIndex]);
+  });
+
 });

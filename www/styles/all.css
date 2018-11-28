@@ -1,7 +1,12 @@
 body {
   /* TODO: Determine font to use for site */
   margin: 0;
+  padding-bottom: 150px;
+}
 
+html {
+  min-height: 100%;
+  position: relative;
 }
 
 header{
@@ -24,8 +29,7 @@ nav {
   flex-grow: 1;
 }
 
-nav ul:visited,
-nav ul {
+nav ul:visited, nav ul {
   display: flex;
   flex-direction: row;
   color: #fff;
@@ -37,12 +41,12 @@ nav ul {
 nav ul li {
   flex-grow: 1;
   font-size: 18px;
-  /* cool fade effects for the hover */
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition:.5s;
+  /* the following code is with help from https://www.w3schools.com/css/css3_transitions.asp */
+  -o-transition:.4s;
+  -ms-transition:.4s;
+  -moz-transition:.4s;
+  -webkit-transition:.4s;
+  transition:.4s;
 }
 
 nav ul li a {
@@ -142,6 +146,10 @@ p {
   height: 200px;
 }
 
+.mainContent {
+  text-align:center;
+}
+
 #form-container {
   text-align: center;
 }
@@ -153,6 +161,7 @@ p {
 
 #contact-form div {
   margin: 20px 0;
+  text-align: left;
 }
 
 #contact-form label {
@@ -165,11 +174,7 @@ p {
 
 #contact-form em, .error-message {
   color: #c70505;
-}
-
-#contact-form .error-message {
-  margin-left: 85px;
-  text-align: left;
+  display: inline;
 }
 
 #contact-form input, textarea {
@@ -185,11 +190,12 @@ p {
 }
 
 #contact-submit-btn {
-  text-align: center;
+  padding-left: 90px;
 }
 
 #contact-submit-btn input {
-  margin-left: 80px;
+  display: block;
+  margin:auto;
   width: 100px;
   height: 35px;
   border-radius: 20px;
@@ -213,46 +219,46 @@ p {
   display: none;
 }
 
-.left-img {
-  float: right;
-}
 .image-container ul li {
   flex-grow: 1;
   position: relative;
   border-style: solid;
   margin-right: 50px;
+  display: flex;
+  flex-direction: row;
 }
 
 .image-container ul li span {
   position: relative;
   padding-right: 7em;
   border-style: solid;
-  margin-bottom: 50px;
+
+  flex-grow: 1;
 }
 
 .image-container ul li img {
-  height: 400px;
-  width: 350px;
+  height: 200px;
+  width: 100px;
   position: relative;
+  flex-grow: 2;
 }
 
 .footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: left;
-    padding-bottom: 20px;
-}
-
-.mainContent {
+  margin:0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: left;
+  padding: 20px 0;
 }
 
 .slideshow {
-  width: 500px;
+  /* width: 500px; */
   margin: 0px auto;
+  text-align: center;
 }
 
 .slideshow h2 {
@@ -262,8 +268,28 @@ p {
 }
 
 .slideshowImageHolder {
-  width: 500px;
+  /* width: 500px; */
   margin: 0px auto;
+}
+
+#slide-arrow-next, #slide-arrow-prev {
+  cursor: pointer;
+  display: inline;
+  padding: 8px 12px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.8;
+  /* transitions fade for smooth feel */
+  -o-transition:.6s;
+  -ms-transition:.6s;
+  -moz-transition:.6s;
+  -webkit-transition:.6s;
+  transition:.6s;
+}
+
+#slide-arrow-next:hover, #slide-arrow-prev:hover {
+  opacity: 1;
 }
 
 .slideshowButtonHolder {
@@ -282,6 +308,27 @@ p {
   cursor: pointer;
   background-color: gray;
 }
+
+.hpheading {
+  text-align: center;
+}
+
+#goldNavItem {
+  display: inline-block;
+  position: relative;
+}
+
+#goldDropdown {
+  position: absolute;
+  background-color: gold;
+  color: black;
+  padding: 10px;
+  left:30px;
+  width: 130px;
+  text-align: left;
+}
+
+/* MOBILE RESPONSIVE CODE STARTS BELOW. BE CAREFUL */
 
 @media (max-width: 1000px) {
 
@@ -327,36 +374,4 @@ p {
     transform: rotate(45deg) translate(-9px, -9px);
   }
 
-}
-
-.bottomStatement {
-  background-color: black;
-  color: white;
-  padding: 40px;
-  font-size: 12px;
-  position: fixed;
-  text-align: center;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-.hpheading {
-  text-align: center;
-}
-
-#goldNavItem {
-  display: inline-block;
-  position: relative;
-
-}
-
-#goldDropdown {
-  position: absolute;
-  background-color: gold;
-  color: black;
-  padding: 10px;
-  left:30px;
-  width: 130px;
-  text-align: left;
 }
