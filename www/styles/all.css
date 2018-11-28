@@ -231,17 +231,25 @@ p {
   flex-grow: 1;
   position: relative;
   border-style: solid;
+  border-width: thin;
+  border-color: grey;
   margin-right: 50px;
   display: flex;
   flex-direction: row;
 }
 
 .image-container ul li span {
+  color: blue;
   position: relative;
-  padding-right: 7em;
-  border-style: solid;
 
+  position: absolute;
   flex-grow: 1;
+  top: 50%;
+  left: 0;
+  height: 50%;
+  width: 100%;
+  background-color: #d4d6d8;
+  opacity: 0.8;
 }
 
 .image-container ul li img {
