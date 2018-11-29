@@ -346,6 +346,25 @@ p {
   text-align: left;
 }
 
+#threed-content{
+  display:flex;
+  flex-direction:row;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 30px;
+  }
+
+.gold-pic{
+  flex-grow: 1;
+  padding-top:20px;
+  padding-right:15px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  }
+.gold-info{
+  flex-grow: 5;
+  }
+
 /* MOBILE RESPONSIVE CODE STARTS BELOW. BE CAREFUL */
 
 @media (max-width: 1000px) {
