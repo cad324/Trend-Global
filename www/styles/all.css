@@ -253,6 +253,35 @@ p {
   opacity: 0.8;
   margin: 10px;
 }
+.image-container ul li a span {
+  color: #d4d6d8;
+  position: relative;
+  position: absolute;
+  flex-grow: 1;
+  top: 70%;
+  left: 0;
+  height: 30%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.8;
+  margin: 0;
+}
+.image-container ul li a {
+  flex-grow: 1;
+  position: relative;
+  border-style: solid;
+  border-width: thin;
+  border-color: grey;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: row;
+}
+.image-container ul li a img {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  flex-grow: 2;
+}
 
 .image-container ul li img {
   height: 200px;
