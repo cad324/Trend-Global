@@ -205,15 +205,17 @@ p {
 .image-container {
   display: flex;
   flex-direction: column;
+  text-align: center;
 }
 
 .image-container ul {
-  margin-left: 150px;
-  margin-right: 150px;
+  margin: auto;
+  width: 80%;
   margin-bottom: 100px;
   display: flex;
   flex-grow: 1;
   list-style: none;
+  padding: 0;
 }
 
 .hidden {
@@ -234,15 +236,13 @@ p {
   border-style: solid;
   border-width: thin;
   border-color: grey;
-  margin-right: 50px;
+  margin:0 10px;
   display: flex;
   flex-direction: row;
 }
 
 .image-container ul li span {
   color: #d4d6d8;
-  position: relative;
-
   position: absolute;
   flex-grow: 1;
   top: 0;
@@ -253,9 +253,9 @@ p {
   opacity: 0.8;
   margin: 10px;
 }
+
 .image-container ul li a span {
   color: #d4d6d8;
-  position: relative;
   position: absolute;
   flex-grow: 1;
   top: 70%;
@@ -266,6 +266,7 @@ p {
   opacity: 0.8;
   margin: 0;
 }
+
 .image-container ul li a {
   flex-grow: 1;
   position: relative;
@@ -276,6 +277,7 @@ p {
   display: flex;
   flex-direction: row;
 }
+
 .image-container ul li a img {
   height: 200px;
   width: 200px;
