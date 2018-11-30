@@ -236,7 +236,7 @@ p {
   flex-direction: row;
 }
 
-.image-container ul li span {
+/* .image-container ul li span {
   color: #d4d6d8;
   position: absolute;
   flex-grow: 1;
@@ -247,9 +247,9 @@ p {
   background-color: black;
   opacity: 0.8;
   margin: 10px;
-}
+} */
 
-.image-container ul li a span {
+.image-container ul li span {
   color: #d4d6d8;
   position: absolute;
   flex-grow: 1;
@@ -260,6 +260,12 @@ p {
   background-color: black;
   opacity: 0.8;
   margin: 0;
+  animation: slide-caption 0.5s;
+}
+
+@keyframes slide-caption {
+    from {height: 0;}
+    to {height: 30%;}
 }
 
 .image-container ul li a {
