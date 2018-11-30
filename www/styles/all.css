@@ -30,7 +30,7 @@ nav {
   flex-grow: 1;
 }
 
-nav ul:visited, nav ul {
+nav ul {
   display: flex;
   flex-direction: row;
   color: #fff;
@@ -53,7 +53,7 @@ nav ul li a {
 
 nav ul li:hover {
   /* TODO: Experiment with hover responses */
-  color: #c3c39b;
+  color: #d6dbdf;
 }
 
 .menu-icon {
@@ -360,12 +360,25 @@ p {
 
 #goldDropdown {
   position: absolute;
-  background-color: gold;
-  color: black;
-  padding: 10px;
-  left:30px;
+  background-color: #000;
+  color: #fff;
+  left:20px;
   width: 130px;
   text-align: left;
+}
+
+#goldDropdown div {
+  padding: 10px;
+  border-bottom: 0.1px solid #d6dbdf;
+}
+
+#goldDropdown div a {
+  transition: 0.6s;
+}
+
+#goldDropdown div:hover {
+  background: #000;
+  color:#ffd700;
 }
 
 
