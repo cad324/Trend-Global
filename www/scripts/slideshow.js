@@ -14,19 +14,6 @@ $(document).ready(function() {
  // Current Index
   var currentIndex = 0;
 
-/*
-  // When On Click
-  $("#slideshowNext").click(function () {
-    currentIndex = currentIndex + 1;
-
-    // updating Index
-    if (currentIndex >= images.length) {
-      currentIndex = 0
-    }
-    // update new images
-    $("#slideshowImage").attr("src", images[currentIndex]);
-  }); */
-
   $("#slide-arrow-next").click(function() {
     currentIndex = currentIndex + 1;
 
@@ -48,5 +35,17 @@ $(document).ready(function() {
     // update new images
     $("#slideshowImage").attr("src", images[currentIndex]);
   });
+
+  function automateSlide() {
+    currentIndex = currentIndex + 1;
+    if (currentIndex >= images.length) {
+      currentIndex = 0
+    }
+    $("#slideshowImage").attr("src", images[currentIndex]);
+    //recursively calling automateSlide
+    setTimeout(automateSlide, 5000);
+  }
+
+  setTimeout(automateSlide, 5000);
 
 });
