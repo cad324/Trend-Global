@@ -2,7 +2,7 @@ body {
   /* TODO: Determine font to use for site */
   margin: 0;
   padding-bottom: 150px;
-  background-color: #d6dbdf;
+  background-color: #e2e6e8;
 }
 
 html {
@@ -213,6 +213,7 @@ p {
   padding: 0;
 }
 
+/* For responsive menu interactivity */
 .hidden {
   display: none;
 }
@@ -395,13 +396,14 @@ p {
   nav ul {
     display: none;
     text-align: right;
-    position: relative;
-    right: 0;
-    top: 20px;
+    margin-left: 50%;
   }
 
   nav ul li {
     margin: 10px 0;
+    text-align: left;
+    padding: 3px 0;
+    border-bottom: 1px #fff solid;
   }
 
   .menu-icon {
