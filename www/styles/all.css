@@ -79,6 +79,16 @@ h2 {
   text-align: center;
 }
 
+#site-intro {
+  position: relative;
+  animation: fadeIn 1s, slideUp 1s;
+}
+
+@keyframes slideUp {
+  from {bottom:-20px;}
+  to {bottom: 0;}
+}
+
 p {
   text-align: center;
 }
@@ -109,6 +119,15 @@ p {
 .shop-display-section div h3 {
   margin: 100px auto;
   color: #fff;
+}
+
+.shop-display-section img {
+  animation: imgGrow 1s;
+}
+
+@keyframes imgGrow {
+  from {height: 0;}
+  to {height: 90%;}
 }
 
 /* For the about section page */
@@ -229,9 +248,7 @@ p {
 .image-container ul li {
   flex-grow: 1;
   position: relative;
-  border-style: solid;
-  border-width: thin;
-  border-color: grey;
+  border: #929692 groove 2px;
   margin:0 10px;
   display: flex;
   flex-direction: row;
@@ -330,36 +347,34 @@ p {
   flex-direction: row;
 }
 
+.slideshowImageHolder img {
+  border: 2px #797a78 groove;
+}
+
 #slide-arrow-next, #slide-arrow-prev {
+  position: relative;
   cursor: pointer;
-  margin-top: 100px;
-  padding: 5px 12px;
+  margin-top: 125px;
+  padding: 2px 14px 3px 11px;
   border-radius: 50%;
   color: #fff;
   background-color: #000;
-  opacity: 0.5;
+  opacity: 0.3;
   transition:.6s;
+  font-size: 26px;
+}
+
+#slide-arrow-prev {
+  left: 50px;
+}
+
+#slide-arrow-next {
+  right: 50px;
+  padding: 2px 11px 3px 12px;
 }
 
 #slide-arrow-next:hover, #slide-arrow-prev:hover {
   opacity: 1;
-}
-
-.slideshowButtonHolder {
-  position: relative;
-  height: 50px;
-}
-
-.slideshowNextButton {
-  width: 60px;
-  text-align: center;
-  padding: 10px;
-  border: 1px black solid;
-  border-radius: 5px;
-  position: absolute;
-  right: 0px;
-  cursor: pointer;
-  background-color: gray;
 }
 
 .hpheading {
