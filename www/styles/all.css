@@ -42,11 +42,6 @@ nav ul:visited, nav ul {
 nav ul li {
   flex-grow: 1;
   font-size: 18px;
-  /* the following code is with help from https://www.w3schools.com/css/css3_transitions.asp */
-  -o-transition:.4s;
-  -ms-transition:.4s;
-  -moz-transition:.4s;
-  -webkit-transition:.4s;
   transition:.4s;
 }
 
@@ -330,11 +325,6 @@ p {
   color: #fff;
   background-color: #000;
   opacity: 0.5;
-  /* transitions fade for smooth feel */
-  -o-transition:.6s;
-  -ms-transition:.6s;
-  -moz-transition:.6s;
-  -webkit-transition:.6s;
   transition:.6s;
 }
 
