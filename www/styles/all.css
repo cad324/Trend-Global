@@ -428,6 +428,7 @@ p {
   }
 
   .menu-icon {
+    cursor: pointer;
     display: block;
     position: absolute;
     right: 0;
