@@ -2,7 +2,7 @@ body {
   /* TODO: Determine font to use for site */
   margin: 0;
   padding-bottom: 150px;
-  background-color: #e2e6e8;
+  background-color: #f6f6f6;
 }
 
 html {
@@ -170,13 +170,13 @@ p {
 }
 
 #contact-form {
-  padding: 20px;
-  display: inline-block;
+  padding: 20px 20px 20px 30%;
+  display: block;
+  text-align: left;
 }
 
 #contact-form div {
-  margin: 20px 0;
-  text-align: left;
+  margin: 20px;
 }
 
 #contact-form label {
@@ -192,6 +192,11 @@ p {
   display: inline;
 }
 
+#contact-form p {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
 #contact-form input, textarea {
   /* TODO: Determine the font for input */
   width: 250px;
@@ -205,12 +210,11 @@ p {
 }
 
 #contact-submit-btn {
-  padding-left: 90px;
+  text-align: left;
 }
 
 #contact-submit-btn input {
-  display: block;
-  margin:auto;
+  margin:auto 0 auto 220px;
   width: 100px;
   height: 35px;
   border-radius: 20px;
