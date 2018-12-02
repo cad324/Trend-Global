@@ -363,7 +363,7 @@ p {
 
 #goldDropdown {
   position: absolute;
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.8);
   color: #fff;
   left:20px;
   width: 130px;
@@ -380,8 +380,8 @@ p {
 }
 
 #goldDropdown div:hover {
-  background: #000;
-  color:#ffd700;
+  background: rgba(0, 0, 0, 0.8);
+  color: #c3c39b;
 }
 
 /* For responsive menu interactivity */
