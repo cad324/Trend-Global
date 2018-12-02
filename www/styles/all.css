@@ -220,6 +220,11 @@ p {
   border-radius: 20px;
 }
 
+.gallery-bar {
+  width: 70%;
+  margin-bottom: 35px;
+}
+
 .image-container {
   display: flex;
   flex-direction: column;
@@ -234,47 +239,32 @@ p {
   flex-grow: 1;
   list-style: none;
   padding: 0;
-}
-
-/* For responsive menu interactivity */
-.hidden {
-  display: none;
-}
-
-.flex {
-  display: flex;
-}
-
-.block {
-  display: block;
+  flex-wrap: wrap;
 }
 
 .image-container ul li {
   flex-grow: 1;
   position: relative;
   border: #929692 groove 2px;
-  margin:0 10px;
+  margin:10px;
   display: flex;
   flex-direction: row;
+  background: #fff;
 }
 
-/* .image-container ul li span {
-  color: #d4d6d8;
-  position: absolute;
-  flex-grow: 1;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-color: black;
-  opacity: 0.8;
-  margin: 10px;
-} */
+.image-container ul li img {
+  height: 200px;
+  width: 300px;
+  display: block;
+  margin: auto;
+  position: relative;
+  animation: fadeIn 1s;
+}
 
 .image-container ul li span {
   color: #d4d6d8;
   position: absolute;
-  flex-grow: 1;
+  /* flex-grow: 1; */
   top: 70%;
   left: 0;
   height: 30%;
@@ -301,21 +291,6 @@ p {
   flex-direction: row;
 }
 
-.image-container ul li a img {
-  height: 200px;
-  width: 200px;
-  position: relative;
-  flex-grow: 2;
-}
-
-.image-container ul li img {
-  height: 200px;
-  width: 100px;
-  position: relative;
-  flex-grow: 2;
-  animation: fadeIn 1s;
-}
-
 @keyframes fadeIn {
   from {opacity: 0;}
   to {opacity: 1;}
@@ -333,39 +308,35 @@ p {
   padding: 20px 0;
 }
 
-.slideshow {
-  margin: 0px auto;
-  text-align: center;
-}
-
-.slideshow h2 {
-  text-align: center;
-  margin-bottom: 4px;
-  margin-top: 4px;
+.mainContent {
+  max-width: 90%;
+  margin: auto;
 }
 
 .slideshowImageHolder {
-  /* width: 500px; */
-  margin: 0px auto;
   display: inline-flex;
   flex-direction: row;
+  text-align: center;
+  max-width: 90%;
+  max-height: 90%;
 }
 
 .slideshowImageHolder img {
   border: 2px #797a78 groove;
+  width: 90%; height: 90%;
 }
 
 #slide-arrow-next, #slide-arrow-prev {
   position: relative;
   cursor: pointer;
-  margin-top: 125px;
+  margin-top: 300%;
   padding: 2px 14px 3px 11px;
   border-radius: 50%;
   color: #fff;
   background-color: #000;
   opacity: 0.3;
   transition:.6s;
-  font-size: 26px;
+  font-size: 25px;
 }
 
 #slide-arrow-prev {
@@ -413,8 +384,54 @@ p {
   color:#ffd700;
 }
 
+/* For responsive menu interactivity */
+.hidden {
+  display: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.block {
+  display: block;
+}
+
 
 /* MOBILE RESPONSIVE CODE STARTS BELOW. BE CAREFUL */
+
+@media (max-width: 750px) {
+
+  #slide-arrow-next, #slide-arrow-prev {
+    margin-top: 200%;
+  }
+
+  #slide-arrow-next:hover, #slide-arrow-prev:hover {
+    opacity: 0.7;
+  }
+}
+
+@media (max-width: 550px) {
+
+  #slide-arrow-next, #slide-arrow-prev {
+    margin-top: 100%;
+    font-size: 20px;
+    opacity: 0.1;    /*because the arrows are covering images now */
+  }
+  
+}
+
+/* responsiveness for gallery images  */
+@media (max-width: 815px) {
+
+  .image-container ul {
+    width: 60%;
+  }
+
+  .image-container ul li {
+    margin-bottom: 30px;
+  }
+}
 
 @media (max-width: 1000px) {
 
