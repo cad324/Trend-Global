@@ -11,7 +11,7 @@ html {
 }
 
 header{
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.8);
   text-align: center;
   display: flex;
 }
@@ -72,7 +72,7 @@ nav ul li:hover {
 	height: 0;
 	border-left: 35px solid transparent;
 	border-right: 35px solid transparent;
-	border-top: 35px solid #000;
+	border-top: 35px solid rgba(0, 0, 0, 0.8);
 }
 
 h2 {
@@ -302,7 +302,7 @@ p {
   right: 0;
   bottom: 0;
   width: 100%;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.8);
   color: white;
   text-align: left;
   padding: 20px 0;
@@ -418,7 +418,7 @@ p {
     font-size: 20px;
     opacity: 0.1;    /*because the arrows are covering images now */
   }
-  
+
 }
 
 /* responsiveness for gallery images  */
@@ -493,8 +493,13 @@ p {
 
 }
 
+
 #bottomstatement {
   padding: 50px;
   font-size: 15px;
   text-align: center;
+}
+
+#bottomstatement a[href="contact.html"]:visited{
+  color: black;
 }
