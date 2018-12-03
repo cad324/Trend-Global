@@ -1,6 +1,7 @@
 $(document).ready(function () {
 
-  $("#contact-form").on("submit", function() {
+  $("#contact-form").on("submit", function(e) {
+    e.preventDefault();
     var formIsValid = true;
     var nameIsValid = $("#name-field").prop("validity").valid;
     var emailIsValid = $("#email-field").prop("validity").valid;
@@ -27,6 +28,10 @@ $(document).ready(function () {
       $("#message-field-error").addClass("hidden");
     }
 
+    if (formIsValid) {
+      $("#form-container").addClass("hidden");
+      $("#post-message").removeClass("hidden");
+    }
     return formIsValid;
   });
 
