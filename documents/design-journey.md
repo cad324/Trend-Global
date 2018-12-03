@@ -238,18 +238,47 @@ We had a second Skype meeting with our client. After showing our client the init
 #### Participant 1
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-
+Participant 1 is Eula Wood. She is from California and previously owned her own jewelry store in Hong Kong, where she sold accessories she made and bought from other sources. She is now retired and enjoys making jewelry in her spare time. Eula has a bright personality and seems passionate about jewelry. She was excited for the interview.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
 [If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?]
+Yes, retailer.
 
 [Report the results for your user's performance on each of your tasks. You should **describe the task** you ask the user to complete, explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments in the **memo** field.]
 
 Format:
 - Task #1
   - **Task Description** (What was the task for this user?)
+    - Identify a gold gemstone product.
+  - **How did the user do? Did that meet your expectation?**
+    - Eula hovered over the 14k/10k tab and navigated down to the "Plain Gold" dropdown, then the "Gemstone" dropdown
+    - this met my expectation, and it was clear how Eula's thought process was as she tried to complete the task
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Eula thought it was pretty clear for the most part, but didn't understand the difference between 14k/10k and Plain Gold. Thought it may have been better to switch, since plain gold is more general
+  - **Your reflections about the user’s performance to the task**
+    - It was good feedback to know more about jewelry terminology, since we don't know the difference between plain gold and the different carats of gold. We were surprised the user didn't also click on the 14/10k gold page.
+  - **Re-design choices**
+    - We'll clarify the naming conventions of the product lines and see if there should be any adjustments to how the gold dropdown bar (and the other nav tabs) are named, in order to avoid confusion from the site visitors.
+  - **Memo** (Justify your decisions; additional notes.)
     - [You should fill this out]
+- Task #2
+  - **Task Description** (What was the task for this user?)
+    - Find out where Trend USA's products are manufactured.
+  - **How did the user do? Did that meet your expectation?**
+    - Eula first went to the home page and scrolled down
+    - then went to the about page and after skimming the content, found that Trend USA's products are manufactured in Guangzhou.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Thought it made sense, but would also want more info on Trend international as a whole, if she could get products shipped to Asia as well
+  - **Your reflections about the user’s performance to the task**
+    - We didn't think about adding much info to page about Trend International's global branch, but th
+  - **Re-design choices**
+    - [You should fill this out]
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #3
+  - **Task Description** (What was the task for this user?)
+    - Send a question to Trend USA asking how to obtain product quotes.
   - **How did the user do? Did that meet your expectation?**
     - [You should fill this out]
     - [Maybe with multiple points]
@@ -261,6 +290,21 @@ Format:
     - [You should fill this out]
   - **Memo** (Justify your decisions; additional notes.)
     - [You should fill this out]
+- Task #4
+  - **Task Description** (What was the task for this user?)
+    - Point out a few popular pieces offered by Trend USA.
+  - **How did the user do? Did that meet your expectation?**
+    - [You should fill this out]
+    - [Maybe with multiple points]
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - [You should fill this out]
+  - **Your reflections about the user’s performance to the task**
+    - [You should fill this out]
+  - **Re-design choices**
+    - [You should fill this out]
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+
 
 [Include evidence of your user testing process.]
 
