@@ -253,7 +253,7 @@ Format:
     - Identify a gold gemstone product.
   - **How did the user do? Did that meet your expectation?**
     - Eula hovered over the 14k/10k tab and navigated down to the "Plain Gold" dropdown, then the "Gemstone" dropdown
-    - this met my expectation, and it was clear how Eula's thought process was as she tried to complete the task
+    - this met our expectation, and it was clear how Eula's thought process was as she tried to complete the task
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
     - Eula thought it was pretty clear for the most part, but didn't understand the difference between 14k/10k and Plain Gold. Thought it may have been better to switch, since plain gold is more general
   - **Your reflections about the user’s performance to the task**
@@ -268,67 +268,183 @@ Format:
   - **How did the user do? Did that meet your expectation?**
     - Eula first went to the home page and scrolled down
     - then went to the about page and after skimming the content, found that Trend USA's products are manufactured in Guangzhou.
+    - This also met our expectation
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
     - Thought it made sense, but would also want more info on Trend international as a whole, if she could get products shipped to Asia as well
   - **Your reflections about the user’s performance to the task**
-    - We didn't think about adding much info to page about Trend International's global branch, but th
+    - We didn't think about adding much info to page about Trend International's global branch, but will look to ask about that info.
   - **Re-design choices**
-    - [You should fill this out]
+    - Perhaps adding links to Trend International's global pages or talking about it on the about page.
   - **Memo** (Justify your decisions; additional notes.)
     - [You should fill this out]
 - Task #3
   - **Task Description** (What was the task for this user?)
     - Send a question to Trend USA asking how to obtain product quotes.
   - **How did the user do? Did that meet your expectation?**
-    - [You should fill this out]
-    - [Maybe with multiple points]
+    - Went to contact, filled out all the spaces and submitted successfully.
+    - This also met our expectation
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-    - [You should fill this out]
+    - Thought it was a little open ended, perhaps should add section for users to specify which products they're asking about
   - **Your reflections about the user’s performance to the task**
-    - [You should fill this out]
+    - Agreed, perhaps there should be more indication on the form that should be customized for a jewelry website rather than just a simple message.
   - **Re-design choices**
-    - [You should fill this out]
+    - Adding more sections on the form, optional or required, that would help filter order messages.
   - **Memo** (Justify your decisions; additional notes.)
     - [You should fill this out]
 - Task #4
   - **Task Description** (What was the task for this user?)
     - Point out a few popular pieces offered by Trend USA.
   - **How did the user do? Did that meet your expectation?**
-    - [You should fill this out]
-    - [Maybe with multiple points]
+    - She went to the trending tab and clicked through the slideshow
+    - This also met our expectation
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-    - [You should fill this out]
+    - Thought it was hard to identify which exact pieces were trending, that they were just pictures.
   - **Your reflections about the user’s performance to the task**
-    - [You should fill this out]
+    - It is true that the page is a bit vague in terms of defining which pieces are trending. We were going more of the styles of trending.
   - **Re-design choices**
-    - [You should fill this out]
+    - Perhaps some links on the page to specific products, materials, or pages would help this.
   - **Memo** (Justify your decisions; additional notes.)
     - [You should fill this out]
 
+![](eula_usertest.jpg)
 
 [Include evidence of your user testing process.]
 
 #### Participant 2
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-
+Participant 2 is Everly Chae, a junior at Cornell who studies Material Science Engineering. She interned in the sourcing & inventory department of Coach Outlets, where she analyzed selections of purses and accessories from different coach lines to be sold in the outlets. Everly is friendly and a hard worker.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
 [If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?]
+Yes, worked in retail inventory
 
-[Fill this out like you did for Participant 1 above]
+- Task #1
+  - **Task Description** (What was the task for this user?)
+    - Identify a gold gemstone product.
+  - **How did the user do? Did that meet your expectation?**
+    - Everly clicked on "browse gold jewelry" on the homepage shortcut, then clicked "gemstone"
+    - This met our expectation.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Everly thought it was fine.
+  - **Your reflections about the user’s performance to the task**
+    - Glad Everly navigated the site easily.
+  - **Re-design choices**
+    - None.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #2
+  - **Task Description** (What was the task for this user?)
+    - Find out where Trend USA's products are manufactured.
+  - **How did the user do? Did that meet your expectation?**
+    - Everly went to the "About" page, read it, and saw that they were manufactured in China.
+    - Met our expectation
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - She pointed out the grammar mistakes in the passage.
+  - **Your reflections about the user’s performance to the task**
+    - Thought her performance was expected, and was glad she pointed out grammar, since we had copy and pasted the content provided to us directly by our client to put on the page.
+  - **Re-design choices**
+    - Just fixing grammar!
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #3
+  - **Task Description** (What was the task for this user?)
+    - Send a question to Trend USA asking how to obtain product quotes.
+  - **How did the user do? Did that meet your expectation?**
+    - Went to contact, filled out all the sections of the form and successfully submitted it.
+    - Met our expectation.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Thought that there should be separate forms for general questions and orders.
+  - **Your reflections about the user’s performance to the task**
+    - Similar to the previous user test, this participant said that there should be differentiation in this form. Again, we agree that there should be more details.
+  - **Re-design choices**
+    - Adding more sections on the form, perhaps in the future having 2 separate forms for general inquiries and orders.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #4
+  - **Task Description** (What was the task for this user?)
+    - Point out a few popular pieces offered by Trend USA.
+  - **How did the user do? Did that meet your expectation?**
+    - Everly went to the trending tab.
+    - This met our expectation.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Thought the design was cool, the page was easy to find, but that it was a bit blank.
+  - **Your reflections about the user’s performance to the task**
+    - Glad the user thought it was cool! It was good feedback to know that the page could use more information.
+  - **Re-design choices**
+    - Adding more text to the page.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+
+![](everly_usertest.jpg)
 
 #### Participant 3
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-
+Participant 3 is Lena, who is a Product Manager at Macy's and runs at line there. She is in charge of sourcing materials for clothing and accessories as inspiration to the designer at Macy's. She is a new graduate from George Washington University and is new to New York City, loving every minute of it.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
 [If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?]
+Yes, works in fashion industry.
 
-[Fill this out like you did for Participant 1 above]
+- Task #1
+  - **Task Description** (What was the task for this user?)
+    - Identify a gold gemstone product.
+  - **How did the user do? Did that meet your expectation?**
+    - clicked "browse gold jewelry" on the homepage, then "gemstone" on the "14k/10k gold" page
+    - Met our expectation.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Thought it was easy to navigate
+  - **Your reflections about the user’s performance to the task**
+    - Glad Lena found it easy to navigate.
+  - **Re-design choices**
+    - None.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #2
+  - **Task Description** (What was the task for this user?)
+    - Find out where Trend USA's products are manufactured.
+  - **How did the user do? Did that meet your expectation?**
+    - Lena clicked on the "About" page and found that the products were manufactured in China.
+    - Met our expectations.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Glad it made sense.
+  - **Your reflections about the user’s performance to the task**
+    - Again, glad Lena was able to find the navigation easily on the site.
+  - **Re-design choices**
+    - None.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #3
+  - **Task Description** (What was the task for this user?)
+    - Send a question to Trend USA asking how to obtain product quotes.
+  - **How did the user do? Did that meet your expectation?**
+    - Filled out all the sections for the form on the contact page.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Lena gave feedback that she doesn't know the purpose of the form to the company, and that there should be pdf links or emails to reach out to place orders.
+  - **Your reflections about the user’s performance to the task**
+    - We thought it was fair. Although we didn't get much direction on making orders from our client, we could definitely add more to this form to help guide users.
+  - **Re-design choices**
+    - Again, adding more sections may help solve this issue.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+- Task #4
+  - **Task Description** (What was the task for this user?)
+    - Point out a few popular pieces offered by Trend USA.
+  - **How did the user do? Did that meet your expectation?**
+    - Lena navigated to the Trending tab.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Said there could probably be more on this page that looked like the other tabs like the gemstone one. More products could be featured.
+  - **Your reflections about the user’s performance to the task**
+    - Agreed again that there can be more information on the Trending page.
+  - **Re-design choices**
+    - Adding more content to the Trending page on specific products or stylings.
+  - **Memo** (Justify your decisions; additional notes.)
+    - [You should fill this out]
+
+![](lena_usertest.jpg)
 
 ### Changes Based on User Testing (Final Submission)
 
