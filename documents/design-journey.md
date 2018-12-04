@@ -84,7 +84,7 @@ We held a Skype meeting with our Client. Our group met up together and video-cha
 
 [Note any content (e.g., text, image) that you need to make/get from the client here.]
 
-Applicable content for our website includes the pictures of the jewelry (necklaces, bracelets, rings, earrings) that will be put on display.
+Applicable content for our website includes the pictures of the jewelry (necklaces, bracelets, rings, earrings) that will be put on display. These images are located in the content folder.
 
 #### Content Organization, Information Architecture, and Navigation (David)
 
