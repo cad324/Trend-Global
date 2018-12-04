@@ -435,6 +435,9 @@ p {
 }
 
 @media (max-width: 1000px) {
+  #goldDropdown {
+    position: relative;
+  }
 
   nav ul {
     display: none;
@@ -555,6 +558,7 @@ p {
 }
 
 @media (max-width: 750px) {
+
 
   #slide-arrow-next, #slide-arrow-prev {
     margin-top: 200%;
