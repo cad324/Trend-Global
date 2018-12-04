@@ -232,18 +232,21 @@ We had a second Skype meeting with our client. After showing our client the init
 ### Changes Based on Presentation (Final Submission)
 
 [What changes did you make to your plan or design based on your peers' feedback?]
+- We altered our form so that it didn't shift left when feedback was presented (on the right side).
+- We fixed the image sizing and added mobile responsiveness so that regardless of screen size, the images will look the same.
+- We added a font to the site.
 
 ### User Testing (Final Submission)
 
 #### Participant 1
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-Participant 1 is Eula Wood. She is from California and previously owned her own jewelry store in Hong Kong, where she sold accessories she made and bought from other sources. She is now retired and enjoys making jewelry in her spare time. Eula has a bright personality and seems passionate about jewelry. She was excited for the interview.
+-Participant 1 is Eula Wood. She is from California and previously owned her own jewelry store in Hong Kong, where she sold accessories she made and bought from other sources. She is now retired and enjoys making jewelry in her spare time. Eula has a bright personality and seems passionate about jewelry. She was excited for the interview.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
 [If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?]
-Yes, retailer.
+-Yes, retailer.
 
 [Report the results for your user's performance on each of your tasks. You should **describe the task** you ask the user to complete, explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments in the **memo** field.]
 
@@ -313,12 +316,12 @@ Format:
 #### Participant 2
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-Participant 2 is Everly Chae, a junior at Cornell who studies Material Science Engineering. She interned in the sourcing & inventory department of Coach Outlets, where she analyzed selections of purses and accessories from different coach lines to be sold in the outlets. Everly is friendly and a hard worker.
+-Participant 2 is Everly Chae, a junior at Cornell who studies Material Science Engineering. She interned in the sourcing & inventory department of Coach Outlets, where she analyzed selections of purses and accessories from different coach lines to be sold in the outlets. Everly is friendly and a hard worker.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
 [If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?]
-Yes, worked in retail inventory
+-Yes, worked in retail inventory
 
 - Task #1
   - **Task Description** (What was the task for this user?)
@@ -382,12 +385,12 @@ Yes, worked in retail inventory
 #### Participant 3
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-Participant 3 is Lena, who is a Product Manager at Macy's and runs at line there. She is in charge of sourcing materials for clothing and accessories as inspiration to the designer at Macy's. She is a new graduate from George Washington University and is new to New York City, loving every minute of it.
+- Participant 3 is Lena, who is a Product Manager at Macy's and runs at line there. She is in charge of sourcing materials for clothing and accessories as inspiration to the designer at Macy's. She is a new graduate from George Washington University and is new to New York City, loving every minute of it.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
 [If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?]
-Yes, works in fashion industry.
+- Yes, works in fashion industry.
 
 - Task #1
   - **Task Description** (What was the task for this user?)
