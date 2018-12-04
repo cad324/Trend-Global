@@ -603,4 +603,20 @@ p {
     opacity: 0.1;    /*because the arrows are covering images now */
   }
 
+  nav ul {
+    margin-left: 10px;
+  }
+
+}
+
+@media (max-width: 450px) {
+
+  #gold-list, #gold-list2, .image-container ul {
+    margin-left: 20px;
+  }
+
+  .about-subsection figure img {
+    width: 100%;
+  }
+
 }
