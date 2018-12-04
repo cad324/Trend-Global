@@ -472,4 +472,4 @@ We added more information on the Trending page to help users understand it more.
 - We would also advise to hire a designer to work on the site as well, since none of the members of our group are particularly experienced within that field. That would help with the overall polish of the site.
 
 [3. Tell us anything else you need us to know for when we're looking at the project.]
-- We had fun working on this project together!
+- We had fun working on this project together! We had started out with 5 members, but one member had dropped out of the class early into us starting the project. We were able to come together and collaborate despite this.
