@@ -4,9 +4,9 @@
 $(document).ready(function() {
   // List of images
   var images = [
-    "images/background1.JPG", // index 0
+    "images/background1.jpg", // index 0
     "images/background2.jpg", // index 1
-    "images/background3.JPG", // index 2
+    "images/background3.jpg", // index 2
     "images/background4.jpg", // index 3
     "images/background5.jpg"  // index 4
   ];
