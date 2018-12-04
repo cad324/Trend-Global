@@ -304,6 +304,15 @@ p {
   flex-direction: row;
 }
 
+#gold-list, #gold-list2 {
+  width: 60%;
+}
+
+#gold-list {
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
 @keyframes fadeIn {
   from {opacity: 0;}
   to {opacity: 1;}
