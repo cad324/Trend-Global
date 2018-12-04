@@ -193,6 +193,32 @@ upon menu icon click:
   Otherwise, add class "hidden" to menu <ul>
 ```
 
+Trending Page Slideshow
+```
+On document ready:
+
+  store each trending image item in an array
+
+  display image at array[0]
+
+On arrow next click (or automatic trigger):
+
+  change image src to image at the next index of the array
+
+  if the current index is the final index:
+
+    display image at array[0]
+
+On arrow previous click: 
+
+  change image src to image at the previous index of the array
+
+  if the current index is 0:
+
+    display image at the final index of the array
+
+```
+
 ### Tasks (Milestone 2) (Kelly)
 
 [You will need to come up with at least 4 tasks. List your tasks here. You *do not* have to do user tests yet.]
