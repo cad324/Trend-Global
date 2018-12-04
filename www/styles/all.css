@@ -289,7 +289,6 @@ p {
   border-style: solid;
   border-width: thin;
   border-color: grey;
-  margin-right: 50px;
   display: flex;
   flex-direction: row;
 }
