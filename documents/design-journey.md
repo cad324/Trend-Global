@@ -209,7 +209,7 @@ On arrow next click (or automatic trigger):
 
     display image at array[0]
 
-On arrow previous click: 
+On arrow previous click:
 
   change image src to image at the previous index of the array
 
