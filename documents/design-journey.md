@@ -385,7 +385,7 @@ Format:
 #### Participant 3
 
 1. Who is your participant, e.g., what is their name, where do they comes from, what is their job, characteristics, etc.?
-- Participant 3 is Lena, who is a Product Manager at Macy's and runs at line there. She is in charge of sourcing materials for clothing and accessories as inspiration to the designer at Macy's. She is a new graduate from George Washington University and is new to New York City, loving every minute of it.
+- Participant 3 is Lena Hilliard, who is a Product Manager at Macy's and runs at line there. She is in charge of sourcing materials for clothing and accessories as inspiration to the designer at Macy's. She is a new graduate from George Washington University and is new to New York City, loving every minute of it.
 
 2. Does your participant belong to your target audience of the site? (Yes / No)
 
