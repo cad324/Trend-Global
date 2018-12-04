@@ -555,6 +555,15 @@ p {
    margin-left: 75px;
  }
 
+ .error-message {
+   display: block;
+   padding: 0;
+ }
+
+ .hidden {
+   display: none;
+ }
+
 }
 
 @media (max-width: 750px) {
