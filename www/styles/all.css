@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding-bottom: 150px;
   background-color: #f6f6f6;
-  font-family: Trebuchet MS;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
 
 html {
@@ -26,6 +26,13 @@ h1 {
   margin: 20px;
   border-radius: 2px;
 }
+
+h2 {
+  position: relative;
+  text-align: center;
+  animation: fadeIn 1s, slideUp 1s;
+}
+
 
 nav {
   flex-grow: 1;
@@ -53,7 +60,6 @@ nav ul li a {
 }
 
 nav ul li:hover {
-  /* TODO: Experiment with hover responses */
   color: #d6dbdf;
 }
 
@@ -74,10 +80,6 @@ nav ul li:hover {
 	border-left: 35px solid transparent;
 	border-right: 35px solid transparent;
 	border-top: 35px solid rgba(0, 0, 0, 0.8);
-}
-
-h2 {
-  text-align: center;
 }
 
 #site-intro {
@@ -360,6 +362,7 @@ p {
 #goldNavItem {
   display: inline-block;
   position: relative;
+  z-index: 1;
 }
 
 #goldDropdown {
