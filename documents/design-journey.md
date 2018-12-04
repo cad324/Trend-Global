@@ -449,17 +449,27 @@ Yes, works in fashion industry.
 ### Changes Based on User Testing (Final Submission)
 
 [What changes did you make to your plan or design based on user testing?]
+We added more sections to the form to help with starting orders (inquiry type, product IDs)
+We added more content on Trend International global as well as fixed the grammar.
+We added more information on the Trending page to help users understand it more.
 
 ### Final Notes to the Clients (Final Submission)
 
 [Describe in some detail what the client will do (or would have to do) in order to make this website go live. What is the deployment plan?]
+- The client will need to add more product images and product ID numbers to populate the sites.
+- The client will also need to deploy the website on the platform of their choice. We will suggest using either Heroku and GitHub.
 
 [Include any other information that your client needs to know about your final website design. For example, what client wants or needs were unable to be realized in your final product? Why were you unable to meet those wants/needs?]
+- We were not able to make a full order form due our limited experience with forms. Hopefully the client would be able to create either an internal form or use an external system to receive and track their orders online.
 
 ### Final Notes to the Graders (Final Submission)
 
 [1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.]
+- Interactivity: the implementation of the auto picture gallery on the Trending page is something we are proud of.
 
 [2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications.]
+- We wanted to implement customer testimonials on the site, or at least brand logos of clients that Trend USA has had in the past. This would take time to gather and gain approvals of these companies but we believe would help give credibility to the site.
+- We would also advise to hire a designer to work on the site as well, since none of the members of our group are particularly experienced within that field. That would help with the overall polish of the site.
 
 [3. Tell us anything else you need us to know for when we're looking at the project.]
+- We had fun working on this project together!
