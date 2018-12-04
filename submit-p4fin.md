@@ -31,4 +31,5 @@ We affirm our awareness of the standards of the Cornell Code of Academic Integri
 [Each team member should sign by adding their name to the list.]
 - Samantha Chu - 12/4/2018
 - Kelly Chan- 12/4/2018
-- (example: Member2 Name - 11/30/2001)
+- David Mwanjabala - 12/04/2018
+- Clive Duncan - 12/4/2018
