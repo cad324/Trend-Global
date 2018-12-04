@@ -435,8 +435,16 @@ p {
 }
 
 @media (max-width: 1000px) {
+
   #goldDropdown {
     position: relative;
+    background-color: inherit;
+    left: 0;
+  }
+
+  #goldDropdown div:hover {
+    background-color: inherit;
+    color: #ffcc0a;
   }
 
   nav ul {
